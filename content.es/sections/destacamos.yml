@@ -1,0 +1,24 @@
+title: Destacamos
+subtitle: ¿Qué nos caracteriza?
+icon: certificate
+size: md
+rows:
+- type: columns
+  design:
+    underline: true
+  items:
+  - icon: clock
+    title: Formalidad
+    subtitle: Puntualidad y compromiso sin igual
+    description: |
+      En TechniMur, la puntualidad es esencial. Cumplimos plazos con precisión para brindarte un servicio eléctrico confiable y sin retrasos.
+  - icon: shield
+    title: Seguridad
+    subtitle: La tranquilidad de estar en buenas manos
+    description: |
+      Tu seguridad es nuestra prioridad. Nuestras certificaciones garantizan estándares rigurosos, y ofrecemos soluciones de protección para un entorno protegido.
+  - icon: star
+    title: Calidad
+    subtitle: La excelencia es nuestra norma
+    description: |
+      Cada instalación y proyecto lleva consigo nuestra pasión por la excelencia. Mano de obra y materiales de calidad que reflejan productos duraderos y resultados excepcionales.

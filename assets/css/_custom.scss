@@ -1,0 +1,26 @@
+// Header Animations
+#body-inicio #header {
+  @mixin show-up($delay) {
+    animation: show-up .5s (2 + .25s * $delay) both;
+  }
+  .section__title {       @include show-up(1); }
+  .subtitle {             @include show-up(2); }
+  .subtitle + p {         @include show-up(3); }
+  .description .buttons { @include show-up(4); }
+  .section__header {
+    margin-block: 1em;
+    font-size: fluid-size(1.25*16px,1.75*18px);
+  }
+  .description {
+    margin-top: fluid-size(0px,-18px);
+  }
+  .subtitle {
+    // margin: 0;
+    display: inline-flex;
+  }
+}
+#servicios {
+  .columns .bg-figure-image {
+    filter: sepia(1) hue-rotate(calc(#{ hue($dark) } - 50deg)) brightness(0.66);
+  }
+}

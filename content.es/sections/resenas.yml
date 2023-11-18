@@ -1,0 +1,69 @@
+title: Reseñas
+subtitle: ¿Qué dicen de nosotros?
+icon: comment
+bg: servicio-reparaciones-electricas.jpg
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+  items:
+  - title: Juan Florencio R.
+    description: |
+      José María me ha dado un trato muy educado, correcto, tuve una emergencia y muy puntual y rápido me la solventó, donde ha tenido que venir otras veces y muy profesional en el momento de resolver y asesorarme de como sería lo mejor...
+
+      Sin duda es mi electricista de confianza y a la vez lo recomiendo como profesional.
+  - title: Manuel S.
+    description: |
+      Da gusto ver, cuando está realizando el trabajo, que le gusta lo que hace, el trato es cordial, eficacia, y buen precio, se nota el desarrollo porque ni están con teléfono ni conversando (otros se pasan más de la mitad del tiempo al teléfono).
+
+      En resumen si necesitáis electricistas no dudar en contratarlos satisfacion asegurada.
+  - title: Lucy
+    description: |
+      No tengo palabras para decir como se portó jose, el sabe como yo estaba y la situación en la que me encontraba.
+
+      Me ayudó y me ayuda a día de hoy.
+
+      Lo recomiendo a todo el mundo porque es único...
+
+      Gracias por todo y ya tengo electricista de confianza.
+  - title: Luis R.
+    description: |
+      Muy contento con el servicio.
+
+      Son profesionales y cumplidores.
+
+      Los recomiendo muchísimo! Gracias Jose.
+  - title: Rafa E.
+    description: |
+      De 10, súper rápidos, profesionales y amable.
+
+      Gracias a José María que me instalo mi ventilador de techo. De 10
+  - title: Margarita C.
+    description: |
+      Jose María es un excelente profesional y muy servicial.
+
+      Lo recomiendo sin ningún tipo de duda y lo contactaré en el futuro si necesito ayuda con cualquier tema eléctrico.
+  - title: Chencho S.
+    description: |
+      Excelente profesional.
+
+      Puntual y amable ¿Se puede pedir más?
+  - title: Ja L.
+    description: |
+      Servicio profesional, personal confiable y precio ajustado al servicio.
+
+      Altamente recomendable.
+  - title: Laura A.
+    description: |
+      Experiencia súper favorable. Ya tengo electricista de confianza.
+
+      Muchísimas gracias por el trabajo y el tiempo.
+  - title: Carmen A.
+    description: |
+      Todo muy bien, volveré a llamar, en cuanto lo necesite.
+- type: columns
+  items:
+  - description: |-
+      [btn icon-star Más reseñas](https://g.page/r/Ceu-g_MFBM04EAI/review "noindex")

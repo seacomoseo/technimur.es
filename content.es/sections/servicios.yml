@@ -1,0 +1,47 @@
+title: Servicios
+subtitle: ¿Qué hacemos?
+icon: bolt
+bg: servicios-electricista.jpg
+size: md
+rows:
+- type: columns
+  design:
+    num: 3
+    card: true
+  items:
+
+  - title: Instalaciones Eléctricas
+    subtitle: Residenciales y Comerciales
+    image: servicio-instalaciones-electricas.jpg
+    # icon: plug
+    link: '#instalaciones-electricas'
+
+  - title: Boletín Eléctrico
+    subtitle: y Certificaciones
+    image: servicio-boletin-electrico-certificaciones.jpg
+    # icon: file-check
+    link: '#boletin-electrico-certificaciones'
+
+  - title: Alarmas contra Incendios
+    # subtitle: 
+    image: servicio-alarma-incendios.jpg
+    # icon: light-emergency-on
+    link: '#alarmas-incendios'
+
+  - title: Reparaciones Eléctricas
+    subtitle: y Urgencias
+    image: servicio-reparaciones-electricas.jpg
+    # icon: plug-circle-check
+    link: '#reparaciones-electricas'
+
+  - title: Domótica
+    # subtitle: 
+    image: servicio-domotica.jpg
+    # icon: house-signal
+    link: '#domotica'
+
+  - title: Telecomunicaciones
+    # subtitle: 
+    image: servicio-telecomunicaciones.jpg
+    # icon: tower-broadcast
+    link: '#telecomunicaciones'

@@ -1,0 +1,26 @@
+title: Nosotros
+subtitle: ¿Quienes Somos?
+icon: circle-info
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+    title: null
+    uppercase: true
+    underline: true
+  items:
+  - order: 2
+    bg: portfolio-11.jpg
+    more:
+      align_y: strech
+  - order: 1
+    description: |
+      En TechniMur Electricistas, somos el equipo de profesionales especializados en baja tensión que todos desean tener. Nuestra zona de atención se centra en la comarca murciana, abarcando desde la costa hasta la capital.
+
+      Nuestra calidad se refleja en los resultados que ofrecemos. Realizamos instalaciones eléctricas, antenas TDT y satélite, cámaras de vigilancia y iluminación LED entre otros. Garantizamos la fiabilidad y durabilidad de todos nuestros productos y trabajos.
+
+      Nos encanta lo que hacemos y aportamos amor y cariño a cada una de nuestras intervenciones. Somos la solución perfecta para satisfacer todas tus necesidades eléctricas.
+    more:
+      align: left
+      align_xl: right

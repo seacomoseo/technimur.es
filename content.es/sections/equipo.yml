@@ -1,0 +1,30 @@
+title: Equipo
+subtitle: Más sobre nosotros?
+icon: user-group
+size: sm
+# description: |
+#   icon-quote-left
+#   Somos la chispa que enciende la confianza eléctrica
+#   icon-quote-right
+#   {.subtitle}
+# more:
+#   align: center
+rows:
+- type: columns
+  design:
+    underline: true
+    ratio: circle
+    border: main
+    font_alt: true
+    licon: envelope
+  items:
+  - title: José Tornero
+    subtitle: Murcia y Alicante
+    image: equipo-jose-tornero-cara.jpg
+    label: j.tornero@technimur.es
+    link: mailto:j.tornero@technimur.es
+  - title: Juan Ribes
+    subtitle: Valencia y Castellón
+    image: equipo-juan-ribes-cara.jpg
+    label: j.ribes@technimur.es
+    link: mailto:j.ribes@technimur.es
