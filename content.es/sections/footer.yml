@@ -6,3 +6,15 @@ description: |
   - icon-universal-access {{< internal-link accesibilidad >}}
   - icon-seacomoseo       {{< i18n web-design >}} [seacomoseo.com](https://seacomoseo.com/)
   {.list-inline}
+rows:
+- type: columns
+  design:
+    num: 4
+    num_xs: true
+  items:
+  - description: FINANCIADO POR LA UNIÓN EUROPEA CON EL PROGRAMA KIT DIGITAL, POR LOS FONDOS NEXT GENERATION EU DEL MECANISMO DE PLAN DE RECUPERACIÓN Y RESILENCIA
+    span: 4
+  - image: https://listfamily.es/wp-content/uploads/2023/11/logos-KD-2023-11_0000_UENG.webp
+  - image: https://listfamily.es/wp-content/uploads/2023/11/logos-KD-2023-11_0001-gobesp.webp
+  - image: https://listfamily.es/wp-content/uploads/2023/11/logos-KD-2023-11_0002_TRTR.webp
+  - image: https://listfamily.es/wp-content/uploads/2023/11/logos-KD-2023-11_0003_REDES-KD.webp
