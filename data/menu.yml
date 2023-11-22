@@ -25,10 +25,10 @@ normal:
   label: Destacamos
   icon: certificate
 - link: /#servicios
-  label: Nosotros
+  label: Servicios
   icon: bolt
 - link: /#nosotros
-  label: Servicios
+  label: Nosotros
   icon: circle-info
 - link: /#equipo
   label: Equipo
