@@ -7,7 +7,7 @@ content:
   align: left
   color: white
   toc_color: white
-  border: main
+  border: ''
   reading_time: true
 common:
   size: ''
