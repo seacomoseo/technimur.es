@@ -1,6 +1,6 @@
 ---
 title: Inicio
-title_seo: 'ᐅ Electricistas Technimur: Empresa 【 Murcia y Alcantarilla 】'
+title_seo: 'ᐅ Electricistas Technimur: Empresa 【 Murcia y Alicante 】'
 slug: inicio
 description: llll➤ Ofrecemos los mejores servicios de electricista a precios competitivos. ✅ Technimur ofrece soluciones a los problemas relacionados con la electricidad.
 image: logo.png
