@@ -14,6 +14,7 @@ sections:
   modals:
   - servicio-instalaciones-electricas
   - servicio-boletin-electrico-certificaciones
+  - servicio-instalacion-placas-solares
   - servicio-alarmas-incendios
   - servicio-reparaciones-electricas
   - servicio-domotica

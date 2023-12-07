@@ -2,11 +2,10 @@ title: Servicios
 subtitle: ¿Qué hacemos?
 icon: bolt
 bg: servicios-electricista.jpg
-size: md
 rows:
 - type: columns
   design:
-    num: 3
+    num: 4
     card: true
   items:
 
@@ -21,6 +20,12 @@ rows:
     image: servicio-boletin-electrico-certificaciones.jpg
     # icon: file-check
     link: '#boletin-electrico-certificaciones'
+
+  - title: Instalación de Placas Solares
+    subtitle: Fotovoltaicas
+    image: servicio-instalacion-placas-solares.jpg
+    # icon: solar-panel
+    link: '#instalacion-placas-solares'
 
   - title: Alarmas contra Incendios
     # subtitle: 
