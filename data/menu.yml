@@ -33,7 +33,7 @@ normal:
 - link: '#equipo'
   label: Equipo
   icon: user-group
-- link: /#portfolio
+- link: '#portfolio'
   label: Portfolio
   icon: rectangle-history
 - link: '#resenas'

@@ -13,7 +13,7 @@ sections:
 - file: placas-solares-servicios
 - file: nosotros
 - file: equipo
-- file: _
+- file: placas-solares-portfolio
 - file: resenas
 - file: contacto
 ---

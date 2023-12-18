@@ -7,8 +7,8 @@ rows:
 - type: contact
   data:
   - type: schedule
-    days: Lunes, Miércoles y Viernes
-    hours: 15:00 - 21:00
+    days: Lunes - Viernes
+    hours: 8:00 - 20:00
   - type: br
   - type: phone
     label: 641 47 94 90
