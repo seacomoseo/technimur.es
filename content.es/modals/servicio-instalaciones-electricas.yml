@@ -1,10 +1,10 @@
 id: instalaciones-electricas
-title: Instalaciones Eléctricas
+title: Instalaciones Eléctricas en {{% param title %}}
 subtitle: Residenciales y Comerciales
 image: servicio-instalaciones-electricas.jpg
 icon: plug
 description: |
-  En Technimur, te ofrecemos un servicio de instalaciones eléctricas de calidad para satisfacer todos tus requerimientos eléctricos.
+  En Technimur, te ofrecemos un servicio de instalaciones eléctricas en {{% param title %}} de calidad para satisfacer todos tus requerimientos eléctricos.
 
   Nuestro equipo de profesionales cumple al pie de la letra con la normativa vigente del REBT y te asesora en la ubicación de mecanismos y puntos de luz.
 

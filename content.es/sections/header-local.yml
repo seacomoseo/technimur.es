@@ -1,4 +1,4 @@
-anchor: Electricistas en Murcia - Instaladores Autorizados
+anchor: Electricistas en {{% param title %}}
 title: Technimur
 # subtitle: Electricistas
 color: alt-dark
@@ -10,7 +10,7 @@ description: |
   icon-bolt
   {.subtitle}
 
-  Electricistas Profesionales Autorizados en Murcia
+  Electricistas Profesionales Autorizados en {{% param title %}}
 
   [btn icon-plus Más](#principal)
 more:

@@ -34,7 +34,7 @@ rows:
     link: '#alarmas-incendios'
 
   - title: Reparaciones Eléctricas
-    subtitle: y Urgencias
+    # subtitle: y Urgencias
     image: servicio-reparaciones-electricas.jpg
     # icon: plug-circle-check
     link: '#reparaciones-electricas'

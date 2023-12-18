@@ -1,8 +1,8 @@
 ---
-title: Inicio
-title_seo: 'ᐅ Electricistas Technimur: Empresa 【 Murcia y Alicante 】'
+title: Murcia
+title_seo: 'ᐅ Electricistas Technimur Murcia: Instaladores Autorizados'
 slug: inicio
-description: llll➤ Ofrecemos los mejores servicios de electricista a precios competitivos. ✅ Technimur ofrece soluciones a los problemas relacionados con la electricidad.
+description: llll➤ Encuentra electricistas autorizados y profesionales en Murcia. Servicios cerca de ti para averías, instalaciones eléctricas y más ✅ ¡Contacta ahora!
 image: logo.png
 draft: false
 noindex: false

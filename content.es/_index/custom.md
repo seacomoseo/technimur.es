@@ -1,10 +1,10 @@
 ---
-title: Personalizadas
+title: Ubicaciones
 title_seo: ''
-slug: personalizadas
-description: Listado de páginas personalizadas
+slug: ubicaciones
+description: Listado de páginas por ubicaciones
 image: ''
-draft: true
+draft: false
 noindex: true
 translationKey: custom
 template:
@@ -13,5 +13,21 @@ template:
   general: {}
   modal: {}
   alternate: []
-  sections: []
+  sections:
+  - file: header-local
+  - file: destacamos
+  - file: servicios
+    modals:
+    - servicio-instalaciones-electricas
+    - servicio-boletin-electrico-certificaciones
+    - servicio-instalacion-placas-solares
+    - servicio-alarmas-incendios
+    - servicio-reparaciones-electricas
+    - servicio-domotica
+    - servicio-telecomunicaciones
+  - file: nosotros
+  - file: equipo
+  - file: portfolio
+  - file: resenas
+  - file: contacto
 ---

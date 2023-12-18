@@ -3,6 +3,6 @@ title: Domótica
 image: servicio-domotica.jpg
 icon: house-signal
 description: |
-  Transforma tu hogar o negocio en un espacio inteligente con nuestros sistemas de domótica.
+  Transforma tu hogar o negocio en {{% param title %}} en un espacio inteligente con nuestros sistemas de domótica.
 
   Controla la iluminación, la climatización y la seguridad desde tu dispositivo móvil, brindando comodidad y eficiencia energética.

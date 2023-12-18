@@ -17,29 +17,29 @@ langs_out: true
 callnow_active: true
 callnow_buttons: []
 normal:
-- link: /#
+- link: /
   label: Inicio
   icon: house
-  # anchor: Technimur Electricistas en Murcia y Alicante
-- link: /#destacamos
+  anchor: Electricistas en Murcia
+- link: '#destacamos'
   label: Destacamos
   icon: certificate
-- link: /#servicios
+- link: '#servicios'
   label: Servicios
   icon: bolt
-- link: /#nosotros
+- link: '#nosotros'
   label: Nosotros
   icon: circle-info
-- link: /#equipo
+- link: '#equipo'
   label: Equipo
   icon: user-group
 - link: /#portfolio
   label: Portfolio
   icon: rectangle-history
-- link: /#resenas
+- link: '#resenas'
   label: Reseñas
   icon: comment
-- link: /#contacto
+- link: '#contacto'
   label: Contacto
   icon: paper-plane
   button: link

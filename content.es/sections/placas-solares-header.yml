@@ -1,16 +1,16 @@
-anchor: Electricistas en Murcia - Instaladores Autorizados
+anchor: Instaladores de Placas Solares Fotovoltaicas en Murcia
 title: Technimur
 # subtitle: Electricistas
 color: alt-dark
 image: logo.svg
-bg: fondo.mp4
+bg: servicio-instalacion-placas-solares.jpg
 description: |
   icon-bolt
-  Potencia y precisión en cada instalación eléctrica
+  Potencia y precisión en cada instalación
   icon-bolt
   {.subtitle}
 
-  Electricistas Profesionales Autorizados en Murcia
+  Instaladores de Placas Solares Fotovoltaicas en Murcia
 
   [btn icon-plus Más](#principal)
 more:
@@ -18,4 +18,3 @@ more:
   image_min: 18
   image_max: 15
   padding_top: 3
-  opacity: 100
