@@ -1,7 +1,7 @@
 ---
 title: Locations
 title_seo: ''
-slug: ubicaciones
+slug: locations
 description: List of pages by location
 image: ''
 draft: false
