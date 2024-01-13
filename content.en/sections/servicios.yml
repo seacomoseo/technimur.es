@@ -1,0 +1,52 @@
+title: Services
+subtitle: What we do?
+icon: bolt
+bg: servicios-electricista.jpg
+rows:
+- type: columns
+  design:
+    num: 4
+    card: true
+  items:
+
+  - title: Electrical Installations
+    subtitle: Residential and Commercial
+    image: servicio-instalaciones-electricas.jpg
+    # icon: plug
+    link: '#electrical-installations'
+
+  - title: Electrical Bulletin
+    subtitle: and Certifications
+    image: servicio-boletin-electrico-certificaciones.jpg
+    # icon: file-check
+    link: '#electrical-bulletin-certifications'
+
+  - title: Installation of Solar Panels
+    subtitle: Photovoltaic
+    image: servicio-instalacion-placas-solares.jpg
+    # icon: solar-panel
+    link: '#solar-panel-installers'
+
+  - title: Fire Alarms
+    # subtitle: 
+    image: servicio-alarma-incendios.jpg
+    # icon: light-emergency-on
+    link: '#fire-alarms'
+
+  - title: Electrical Repairs
+    # subtitle: and Emergencies
+    image: servicio-reparaciones-electricas.jpg
+    # icon: plug-circle-check
+    link: '#electrical-repairs'
+
+  - title: Home Automation
+    # subtitle: 
+    image: servicio-domotica.jpg
+    # icon: house-signal
+    link: '#home-automation'
+
+  - title: Telecommunications
+    # subtitle: 
+    image: servicio-telecomunicaciones.jpg
+    # icon: tower-broadcast
+    link: '#telecommunications'

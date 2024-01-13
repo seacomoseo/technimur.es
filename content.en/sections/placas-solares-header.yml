@@ -1,0 +1,20 @@
+anchor: Installers of Photovoltaic Solar Panels in Murcia
+title: Technimur
+# subtitle: Electricians
+color: alt-dark
+image: logo.svg
+bg: servicio-instalacion-placas-solares.jpg
+description: |
+  icon-bolt
+  Power and precision in each installation
+  icon-bolt
+  {.subtitle}
+
+  Installers of Photovoltaic Solar Panels in Murcia
+
+  [btn icon-plus More](#main)
+more:
+  full_screen: true
+  image_min: 18
+  image_max: 15
+  padding_top: 3

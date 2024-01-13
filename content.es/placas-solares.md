@@ -6,7 +6,7 @@ description: llll➤ Instaladores especialistas en placas solares en Murcia. Sol
 image: logo.png
 draft: false
 noindex: false
-translationKey: home
+translationKey: solar-panel-installers
 sections:
 - file: placas-solares-header
 - file: destacamos

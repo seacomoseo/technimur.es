@@ -1,0 +1,19 @@
+id: solar-panel-installers
+title: Installation of Solar Panels
+subtitle: Photovoltaic
+image: servicio-instalacion-placas-solares.jpg
+icon: solar-panel
+description: |
+  We offer an exceptional service in the installation of photovoltaic solar panels in {{% param title %}}:
+
+  <!--
+  adapting to all your sustainable energy needs.
+
+  Our expert team strictly adheres to current regulations and provides you with personalized advice on the selection and optimal location of your solar panels.
+
+  Committed to efficiency and innovation, we work to make your renewable energy projects a tangible and effective reality.
+
+  Explore with us a greener future full of energy possibilities!
+  -->
+
+  [btn icon-plus More info](/en/solar-panel-installers/ "Installers of Photovoltaic Solar Panels in Murcia, Spain")

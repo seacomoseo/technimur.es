@@ -1,0 +1,38 @@
+description: |
+  - icon-copyright        {{< internal-link index >}}
+  - icon-scale-balanced   {{< internal-link legal >}}
+  - icon-shield-keyhole   {{< internal-link privacy >}}
+  - icon-cookie-bite      {{< internal-link cookies >}}
+  - icon-universal-access {{< internal-link accesibilidad >}}
+  {.list-inline}
+  <!--
+  - icon-seacomoseo       {{< i18n web-design >}} [seacomoseo.com](https://seacomoseo.com/)
+  -->
+
+  ---
+
+  - [Murcia](/en/                                                   "Electricians in Murcia: Authorized Installers")
+  - [Torrevieja](/en/electricians-torrevieja/                       "Electricians in Torrevieja")
+  - [Cartagena](/en/electricians-cartagena/                         "Electricians in Cartagena")
+  - [Pilar de la Horadada](/en/electricians-pilar-de-la-horadada/   "Electricians in Pilar de la Horadada")
+  - [San Pedro del Pinatar](/en/electricians-san-pedro-del-pinatar/ "Electricians in San Pedro del Pinatar")
+  - [Los Alcázares](/en/electricians-los-alcazares/                 "Electricians in Los Alcázares")
+  - [San Javier](/en/electricians-san-javier/                       "Electricians in San Javier")
+  - [Electrical Bulletin](/en/electrical-bulletin/                  "Electrical Bulletin and CIE Certificates in Murcia, Spain")
+  - [Solar Panels](/en/solar-panel-installers/                      "Installers of Photovoltaic Solar Panels in Murcia, Spain")
+  {.list-inline}
+rows:
+- type: columns
+  design:
+    num: 5
+    num_xs: true
+  items:
+  - span: 5
+    description: |
+      FINANCED BY THE EUROPEAN UNION THROUGH THE DIGITAL KIT PROGRAM, BY THE NEXT GENERATION EU FUNDS OF THE RECOVERY AND RESILIENCE PLAN MECHANISM
+      {.review__subtitle}
+  - image: kit-digital/gobierno.svg
+  - image: kit-digital/prtr.svg
+  - image: kit-digital/red-es.svg
+  - image: kit-digital/ue.svg
+  - image: kit-digital/kd.svg

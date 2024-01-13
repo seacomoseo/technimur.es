@@ -1,0 +1,69 @@
+title: Reviews
+subtitle: What do they say about us?
+icon: comment
+bg: servicio-reparaciones-electricas.jpg
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+  items:
+  - title: Juan Florencio R.
+    description: |
+      Jose Maria has given me a very polite, correct treatment, I had an emergency and very promptly and quickly solved it, where he has had to come other times and very professional at the time to solve and advise me on how it would be best ....
+
+      Without a doubt he is my trusted electrician and at the same time I recommend him as a professional.
+  - title: Manuel S.
+    description: |
+      It is nice to see, when he is doing the work, that he likes what he does, the treatment is cordial, efficiency, and good price, you can see the development because they are not on the phone or talking (others spend more than half the time on the phone).
+
+      In short if you need electricians do not hesitate to hire them satisfaction assured.
+  - title: Lucy
+    description: |
+      I have no words to say how Jose behaved, he knows how I was and the situation I was in.
+
+      He helped me and still helps me today.
+
+      I recommend it to everyone because it is unique....
+
+      Thank you for everything and I already have a reliable electrician.
+  - title: Luis R.
+    description: |
+      Very happy with the service.
+
+      They are professional and reliable.
+
+      I highly recommend you! Thank you Jose.
+  - title: Rafa E.
+    description: |
+      Super fast, professional and friendly.
+
+      Thanks to Jose Maria who installed my ceiling fan. De 10
+  - title: Margarita C.
+    description: |
+      Jose Maria is an excellent professional and very helpful.
+
+      I recommend him without any hesitation and will contact him in the future if I need help with any electrical issues.
+  - title: Chencho S.
+    description: |
+      Excellent professional.
+
+      Punctual and friendly. Can you ask for more?
+  - title: Ja L.
+    description: |
+      Professional service, reliable staff and price for the service.
+
+      Highly recommended.
+  - title: Laura A.
+    description: |
+      Super favorable experience. I already have a trusted electrician.
+
+      Thank you so much for your work and time.
+  - title: Carmen A.
+    description: |
+      Everything very well, I will call again, as soon as I need it.
+- type: columns
+  items:
+  - description: |-
+      [btn icon-star More reviews](https://g.page/r/Ceu-g_MFBM04EAI/review "noindex")

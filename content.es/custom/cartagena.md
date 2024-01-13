@@ -6,4 +6,5 @@ description: llll➤ Electricistas experimentados en {{% param title %}} para to
 image: logo.png
 draft: false
 noindex: false
+translationKey: cartagena
 ---

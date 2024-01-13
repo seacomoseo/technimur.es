@@ -44,3 +44,32 @@ normal:
   icon: paper-plane
   button: link
 more: []
+
+en:
+  normal:
+  - link: /
+    label: Home
+    icon: house
+    anchor: Electricians in Murcia
+  - link: '#features'
+    label: Features
+    icon: certificate
+  - link: '#services'
+    label: Services
+    icon: bolt
+  - link: '#about-us'
+    label: About Us
+    icon: circle-info
+  - link: '#team'
+    label: Team
+    icon: user-group
+  - link: '#portfolio'
+    label: Portfolio
+    icon: rectangle-history
+  - link: '#reviews'
+    label: Reviews
+    icon: comment
+  - link: '#contact'
+    label: Contact
+    icon: paper-plane
+    button: link

@@ -10,7 +10,7 @@ params:
   drive_link: https://drive.google.com/file/d/1fol99WCHQBUEvay4HS5pH0vSkHqhMjVY
   drive_mails: technimur@gmail.com
 defaultContentLanguage: es
-disableLanguages: [en]
+disableLanguages: []
 languages:
   es:
     paginatePath: pagina
@@ -33,3 +33,24 @@ languages:
         tags: etiquetas
         authors: autores
         custom: ubicaciones
+  en:
+    paginatePath: page
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: event/:year/:month/:day/:slug
+        products: product/:slug
+        categories: category/:slug
+        tags: tag/:slug
+        authors: author/:slug
+        custom: :slug
+      section:
+        pages: pages
+        blog: blog
+        events: events
+        products: products
+        categories: categories
+        tags: tags
+        authors: authors
+        custom: custom

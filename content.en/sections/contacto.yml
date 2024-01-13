@@ -1,0 +1,46 @@
+title: Contact
+subtitle: How can we help you?
+button: link
+size: sm
+icon: paper-plane
+rows:
+- type: contact
+  data:
+  - type: schedule
+    days: Monday - Friday
+    hours: 8:00 - 20:30
+  - type: br
+  - type: phone
+    label: +34 641 47 94 90
+  - type: whatsapp
+    label: +34 641 47 94 90
+    # button: link
+  - type: mail
+    label: j.tornero@technimur.es
+    full: true
+  - type: address
+    active: false
+    name: Electricistas Technimur
+    streetAddress: C. Agustín Escribano, 49
+    postalCode: 30740
+    addressLocality: San Pedro del Pinatar
+    addressRegion: Murcia
+    addressCountry: Spain
+    coordinates: '{"type":"Point","coordinates":[-0.7821083,37.8215487]}'
+  form:
+    fill_inputs: false
+    items:
+    - type: text
+      name: Name
+      required: true
+    - type: tel
+      name: Phone
+    - type: email
+      name: Email
+      required: true
+    - type: textarea
+      name: Message
+      required: true
+  map:
+    active: false
+    link: https://g.page/r/Ceu-g_MFBM04EAI

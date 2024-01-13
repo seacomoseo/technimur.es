@@ -8,7 +8,7 @@ toc: true
 draft: false
 noindex: true
 date: 2023-11-22
-translationKey: accesibilidad
+translationKey: accessibility
 ---
 Declaración de Accesibilidad
 {.h1 .uppercase}

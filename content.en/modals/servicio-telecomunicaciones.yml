@@ -1,0 +1,16 @@
+id: telecommunications
+title: Telecommunications
+# subtitle: 
+image: servicio-telecomunicaciones.jpg
+icon: tower-broadcast
+description: |
+  Keep your connection in perfect condition with our telecommunications services.
+
+  - Terrestrial Antennas (DTT)
+  - Parabolic Antennas
+  - Network Cabling
+  - Access Points
+  - Fiber Optics
+  - In {{% param title %}}
+
+  We're here to make sure you're always connected.

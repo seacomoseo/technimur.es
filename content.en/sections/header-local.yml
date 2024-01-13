@@ -1,0 +1,21 @@
+anchor: Electricians in {{% param title %}}
+title: Technimur
+# subtitle: Electricians
+color: alt-dark
+image: logo.svg
+bg: fondo.mp4
+description: |
+  icon-bolt
+  Power and precision in every electrical installation
+  icon-bolt
+  {.subtitle}
+
+  Authorized Professional Electricians in {{% param title %}}
+
+  [btn icon-plus More](#main)
+more:
+  full_screen: true
+  image_min: 18
+  image_max: 15
+  padding_top: 3
+  opacity: 100

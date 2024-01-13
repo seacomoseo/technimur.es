@@ -1,0 +1,27 @@
+title: Portfolio
+subtitle: What are our jobs like?
+icon: rectangle-history
+rows:
+- type: gallery
+  design:
+    max: 99
+    num: 4
+    alt: true
+    wrap: false
+    gap: true
+    cover: true
+    grayscale: false
+    button: hide
+  images:
+  - portfolio-01.jpg
+  - portfolio-02.jpg
+  - portfolio-03.jpg
+  - portfolio-04.jpg
+  - portfolio-05.jpg
+  - portfolio-06.jpg
+  - portfolio-07.jpg
+  - portfolio-08.jpg
+  - portfolio-09.jpg
+  - portfolio-10.jpg
+  - portfolio-11.jpg
+  - portfolio-12.jpg
