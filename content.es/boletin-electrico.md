@@ -6,7 +6,7 @@ description: llll➤ Obtén tu boletín eléctrico y certificados de instalació
 image: logo.png
 draft: false
 noindex: false
-translationKey: electrical-bulletin
+translationKey: certificates-electrical-installation
 sections:
 - file: boletin-electrico-header
 - file: destacamos

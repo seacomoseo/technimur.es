@@ -1,9 +1,10 @@
-id: electrical-bulletin-certifications
-title: Electrical Bulletin
-subtitle: and Certifications
+id: certificates-electrical-installation
+anchor: Certificates of Electrical Installation
+title: Certificates
+subtitle: of Electrical Installation
 image: servicio-boletin-electrico-certificaciones.jpg
 icon: file-check
 description: |
-  We offer you the best electric bulletin service in {{% param title %}} at the best price:
+  We offer you the best electric certificates service in {{% param title %}} at the best price:
 
-  [btn icon-plus More info](/en/electrical-bulletin/ "Electrical Bulletin and CIE Certificates in Murcia, Spain")
+  [btn icon-plus More info](/en/certificates-electrical-installation/ "Electrical Installation Certificates in Murcia, Spain")
