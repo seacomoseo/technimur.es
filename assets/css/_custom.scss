@@ -1,12 +1,12 @@
 // Header Animations
 #body-inicio #header {
-  @mixin show-up($delay) {
-    animation: show-up .5s (2 + .25s * $delay) both;
+  @mixin show-from($delay) {
+    animation: show-from .5s (2 + .25s * $delay) both;
   }
-  .section__title {       @include show-up(1); }
-  .subtitle {             @include show-up(2); }
-  .subtitle + p {         @include show-up(3); }
-  .description .buttons { @include show-up(4); }
+  .section__title {       @include show-from(1); }
+  .subtitle {             @include show-from(2); }
+  .subtitle + p {         @include show-from(3); }
+  .description .buttons { @include show-from(4); }
   .section__header {
     margin-block: 1em;
     font-size: fluid-size(1.25*16px,1.75*18px);
