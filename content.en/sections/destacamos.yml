@@ -1,8 +1,40 @@
 title: Features
-subtitle: What characterizes us?
+# subtitle: What characterizes us?
 icon: certificate
-size: md
 rows:
+
+- type: columns
+  items:
+  - subtitle: They trust us
+
+- type: columns
+  design:
+    num: 3
+    num_xs: true
+    gap: 2
+    ratio: 3x2
+    slider: true
+    interval: 5
+    ofuscate: true
+    button: hide
+  items:
+  - image: colaboradores/domoelectra.svg
+    link: https://www.domoelectra.com/
+  - image: colaboradores/gabicad.svg
+    link: https://gabicad.com/
+  - image: colaboradores/nca-interiores.svg
+    link: https://www.instagram.com/ncainteriores/
+  - image: colaboradores/bigmat.svg
+    link: https://www.bigmat.es/es/s/almacenes-de-construccion/valencia/suminnistros-para-la-construccion-nieva-sl-54a0
+  - image: colaboradores/domoenergy.svg
+    link: https://domoenergy.es/
+  - image: colaboradores/suministros-electricos-beaza.svg
+    link: https://poligonocabezobeaza.com/directorio/listing/suministros-electricos-beaza-s-l-u
+
+- type: columns
+  items:
+  - subtitle: What characterizes us?
+
 - type: columns
   design:
     underline: true
