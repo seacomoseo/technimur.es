@@ -1,7 +1,7 @@
 ---
 title: Cabo Roig
 title_seo: ᐅ Electricistas en {{% param title %}} - Technimur
-slug: cabo-roig
+slug: electricistas-cabo-roig
 description: llll➤ Electricistas experimentados en {{% param title %}} para todas tus necesidades eléctricas. Servicio rápido, eficaz y de confianza ✅ ¡Contáctanos!
 image: logo.png
 draft: false
