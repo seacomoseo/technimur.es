@@ -1,11 +1,33 @@
 
-/alarma-de-incendio-en-murcia/ /
+/alarma-de-incendio-en-murcia/ /#alarmas-incendios
+/alarma-de-incendio/ /#alarmas-incendios
+/domotica/ /#domotica
 /boletin-electrico-murcia/ /boletin-electrico/
+/energia-solar-termica/ /instaladores-placas-solares/
+/sintonizacion-satelite/ /#telecomunicaciones
+
+/electricistas-murcia/ /
 /electricista-en-los-alcazares/ /electricistas-los-alcazares/
 /electricista-en-pilar-de-la-horadada/ /electricistas-pilar-de-la-horadada/
 /electricista-en-san-javier/ /electricistas-san-javier/
 /electricista-en-san-pedro-del-pinatar/ /electricistas-san-pedro-del-pinatar/
-# /electricistas-torrevieja/ /electricistas-torrevieja/
+/electricista-en-torrevieja /electricistas-torrevieja/
+
+/electricista-en-cabo-roig /electricistas-cabo-roig/
+/electricista-en-cabo-roig/ /electricistas-cabo-roig/
+/electricista-en-campoamor /electricistas-campoamor/
+/electricista-en-campoamor/ /electricistas-campoamor/
+/electricista-en-la-zenia /electricistas-la-zenia/
+/electricista-en-la-zenia/ /electricistas-la-zenia/
+/electricista-en-lo-pagan /electricistas-lo-pagan/
+/electricista-en-torre-de-la-horadada/ /electricistas-torre-de-la-horadada/
+
 /aviso-legal/ /legal/
 /politica-de-cookies/ /cookies/
 /politica-privacidad/ /privacidad/
+
+/author/josela/feed/ /
+/locations.kml /
+/wp-content/uploads/2021/05/cropped-cropped-technimurlogo_blanco-300x300.webp /
+
+
