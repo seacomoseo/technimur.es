@@ -19,7 +19,8 @@
     display: inline-flex;
   }
 }
-#servicios {
+#servicios,
+#services {
   .columns .bg-figure-image {
     filter: sepia(1) hue-rotate(calc(#{ hue($dark) } - 50deg)) brightness(0.66);
   }

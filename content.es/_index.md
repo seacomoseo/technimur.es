@@ -13,6 +13,7 @@ sections:
 - file: servicios
   modals:
   - servicio-instalaciones-electricas
+  - servicio-cargadores-vehiculos-electricos
   - servicio-boletin-electrico-certificaciones
   - servicio-instalacion-placas-solares
   - servicio-alarmas-incendios

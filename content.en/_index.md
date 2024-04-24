@@ -12,6 +12,7 @@ sections:
 - file: destacamos
 - file: servicios
   modals:
+  - servicio-cargadores-vehiculos-electricos
   - servicio-instalaciones-electricas
   - servicio-boletin-electrico-certificaciones
   - servicio-instalacion-placas-solares

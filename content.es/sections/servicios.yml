@@ -15,6 +15,12 @@ rows:
     # icon: plug
     link: '#instalaciones-electricas'
 
+  - title: Cargadores
+    subtitle: de Vehículos Eléctricos
+    image: servicio-cargadores-vehiculos-electricos.jpg
+    # icon: car-bolt
+    link: '#cargadores-vehiculos-electricos'
+
   - title: Boletín Eléctrico
     subtitle: y Certificaciones
     image: servicio-boletin-electrico-certificaciones.jpg

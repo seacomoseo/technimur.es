@@ -47,7 +47,7 @@ more: []
 
 en:
   normal:
-  - link: /
+  - link: /en/
     label: Home
     icon: house
     anchor: Electricians in Murcia
