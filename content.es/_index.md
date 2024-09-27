@@ -1,8 +1,8 @@
 ---
-title: Murcia
-title_seo: 'ᐅ Electricistas Technimur Murcia: Instaladores Autorizados'
+title: San Pedro del Pinatar
+title_seo: 'ᐅ Electricistas Technimur ⚡️ San Pedro del Pinatar'
 slug: inicio
-description: llll➤ Encuentra electricistas autorizados y profesionales en Murcia. Servicios cerca de ti para averías, instalaciones eléctricas y más ✅ ¡Contacta ahora!
+description: llll➤ Encuentra electricistas autorizados y profesionales en San Pedro del Pinatar. Cerca de ti para averías, instalaciones y más ✅ ¡Contacta ahora!
 image: logo.png
 draft: false
 noindex: false

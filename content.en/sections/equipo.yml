@@ -19,12 +19,12 @@ rows:
     licon: envelope
   items:
   - title: José Tornero
-    subtitle: Murcia and Alicante
+    # subtitle: Murcia and Alicante
     image: equipo-jose-tornero-cara.jpg
     label: j.tornero@technimur.es
     link: mailto:j.tornero@technimur.es
   - title: Juan Ribes
-    subtitle: Valencia and Castellón
+    # subtitle: Valencia and Castellón
     image: equipo-juan-ribes-cara.jpg
     label: j.ribes@technimur.es
     link: mailto:j.ribes@technimur.es

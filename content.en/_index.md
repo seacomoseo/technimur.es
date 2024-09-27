@@ -1,8 +1,8 @@
 ---
-title: Murcia
-title_seo: 'ᐅ Electricians Technimur Murcia: Authorized Installers'
+title: San Pedro del Pinatar
+title_seo: 'ᐅ Electricians Technimur ⚡️ San Pedro del Pinatar'
 slug: home
-description: llll➤ Find authorized and professional electricians in Murcia. Services near you for breakdowns, electrical installations and more ✅ Contact now!
+description: llll➤ Find licensed and professional electricians in San Pedro del Pinatar. Near you for breakdowns, installations and more ✅ Contact now!
 image: logo.png
 draft: false
 noindex: false

@@ -5,7 +5,7 @@ rows:
 - type: columns
   design:
     num: 2
-    align_y: center
+    # align_y: center
     title: null
     uppercase: true
     underline: true
@@ -16,11 +16,17 @@ rows:
       align_y: strech
   - order: 1
     description: |
-      In Technimur Electricians, we are the team of professionals specialized in low voltage that everyone wants to have. Our area of attention is centered in the Murcian region and in the Vega Baja, covering from the coast to the capital.
+      At Technimur, we are a team of licensed and professional electricians dedicated to offer a close and high quality service.
 
-      Our quality is reflected in the results we offer. We perform electrical installations, DTT and satellite antennas, surveillance cameras and LED lighting among others. We guarantee the reliability and durability of all our products and works.
+      We specialize in a reduced range of locations to ensure a fast and efficient response, beating the competition in response times.
 
-      We love what we do and we bring love and care to each of our interventions. We are the perfect solution to satisfy all your electrical needs.
+      We offer our services to individuals, communities of owners and companies, adapting to the specific needs of each client.
+
+      In less than 2 years, we have accumulated more than 100 positive reviews on Google, which supports our commitment to excellence and customer satisfaction.
+
+      Our main goal is to earn your trust and maintain a long-lasting relationship, always with a friendly and professional attitude.
+
+      At Technimur, your peace of mind and satisfaction are our priority.
     more:
       align: left
       align_xl: right

@@ -5,7 +5,7 @@ rows:
 - type: columns
   design:
     num: 2
-    align_y: center
+    # align_y: center
     title: null
     uppercase: true
     underline: true
@@ -16,11 +16,17 @@ rows:
       align_y: strech
   - order: 1
     description: |
-      En Electricistas Technimur, somos el equipo de profesionales especializados en baja tensión que todos desean tener. Nuestra zona de atención se centra en la comarca murciana y en la Vega Baja, abarcando desde la costa hasta la capital.
+      En Technimur, somos un equipo de electricistas autorizados y profesionales dedicados a ofrecer un servicio cercano y de alta calidad.
 
-      Nuestra calidad se refleja en los resultados que ofrecemos. Realizamos instalaciones eléctricas, antenas TDT y satélite, cámaras de vigilancia y iluminación LED entre otros. Garantizamos la fiabilidad y durabilidad de todos nuestros productos y trabajos.
+      Nos especializamos en un rango reducido de localidades para garantizar una respuesta rápida y eficiente, superando a la competencia en tiempos de atención.
 
-      Nos encanta lo que hacemos y aportamos amor y cariño a cada una de nuestras intervenciones. Somos la solución perfecta para satisfacer todas tus necesidades eléctricas.
+      Ofrecemos nuestros servicios a particulares, comunidades de propietarios y empresas, adaptándonos a las necesidades específicas de cada cliente.
+
+      En menos de 2 años, hemos acumulado más de 100 reseñas positivas en Google, lo que respalda nuestro compromiso con la excelencia y la satisfacción del cliente.
+
+      Nuestro objetivo principal es ganarnos tu confianza y mantener una relación duradera, siempre con una actitud amigable y profesional.
+
+      En Technimur, tu tranquilidad y satisfacción son nuestra prioridad.
     more:
       align: left
       align_xl: right

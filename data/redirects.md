@@ -30,4 +30,34 @@
 /locations.kml /
 /wp-content/uploads/2021/05/cropped-cropped-technimurlogo_blanco-300x300.webp /
 
+# 2024-09-27
 
+/electricistas-san-pedro-del-pinatar/ /
+/electricistas-cartagena/ /
+/electricistas-valencia/ /
+/electricistas-sueca/ /
+/electricistas-torrente/ /
+/electricistas-paterna/ /
+/electricistas-manises/ /
+/electricistas-burjasot/ /
+/electricistas-alboraya/ /
+/electricistas-masanassa/ /
+/electricistas-paiporta/ /
+/electricistas-catarroja/ /
+/electricistas-albal/ /
+/electricistas-silla/ /
+
+/en/electricians-san-pedro-del-pinatar/ /
+/en/electricians-cartagena/ /
+/en/electricians-valencia/ /
+/en/electricians-sueca/ /
+/en/electricians-torrente/ /
+/en/electricians-paterna/ /
+/en/electricians-manises/ /
+/en/electricians-burjasot/ /
+/en/electricians-alboraya/ /
+/en/electricians-masanassa/ /
+/en/electricians-paiporta/ /
+/en/electricians-catarroja/ /
+/en/electricians-albal/ /
+/en/electricians-silla/ /

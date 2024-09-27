@@ -1,6 +1,6 @@
 ---
 title: Lo Pagan
-title_seo: ᐅ Electricistas en {{% param title %}} - Technimur
+title_seo: ᐅ Electricistas en {{% param title %}} ⚡️ Technimur
 slug: electricistas-lo-pagan
 description: llll➤ Electricistas experimentados en {{% param title %}} para todas tus necesidades eléctricas. Servicio rápido, eficaz y de confianza ✅ ¡Contáctanos!
 image: logo.png

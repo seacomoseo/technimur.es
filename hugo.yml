@@ -10,7 +10,7 @@ params:
   drive_link: https://drive.google.com/file/d/1fol99WCHQBUEvay4HS5pH0vSkHqhMjVY
   drive_mails: technimur@gmail.com
 defaultContentLanguage: es
-disableLanguages: []
+disableLanguages: [fr]
 languages:
   es:
     paginatePath: pagina

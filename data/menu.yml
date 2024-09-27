@@ -20,7 +20,7 @@ normal:
 - link: /
   label: Inicio
   icon: house
-  anchor: Electricistas en Murcia
+  anchor: Electricistas en San Pedro del Pinatar
 - link: '#destacamos'
   label: Destacamos
   icon: certificate
@@ -50,7 +50,7 @@ en:
   - link: /en/
     label: Home
     icon: house
-    anchor: Electricians in Murcia
+    anchor: Electricians in San Pedro del Pinatar
   - link: '#features'
     label: Features
     icon: certificate
