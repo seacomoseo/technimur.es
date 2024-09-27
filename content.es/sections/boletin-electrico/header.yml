@@ -1,0 +1,21 @@
+anchor: Boletín Eléctrico y Certificados de Instalación Eléctrica (CIE) en Murcia
+title: Technimur
+# subtitle: Electricistas
+color: alt-dark
+image: logo.svg
+bg: fondo.webm
+description: |
+  icon-bolt
+  Potencia y precisión en cada instalación eléctrica
+  icon-bolt
+  {.subtitle}
+
+  Boletín Eléctrico y Certificados de Instalación Eléctrica (CIE)
+
+  [btn icon-plus Más](#principal)
+more:
+  full_screen: true
+  image_min: 18
+  image_max: 15
+  padding_top: 3
+  opacity: 100

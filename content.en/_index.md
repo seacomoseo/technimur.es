@@ -8,18 +8,18 @@ draft: false
 noindex: false
 translationKey: home
 sections:
-- file: header
+- file: _header
 - file: destacamos
 - file: servicios
   modals:
-  - servicio-cargadores-vehiculos-electricos
-  - servicio-instalaciones-electricas
-  - servicio-boletin-electrico-certificaciones
-  - servicio-instalacion-placas-solares
-  - servicio-alarmas-incendios
-  - servicio-reparaciones-electricas
-  - servicio-domotica
-  - servicio-telecomunicaciones
+  - cargadores-vehiculos-electricos
+  - instalaciones-electricas
+  - boletin-electrico-certificaciones
+  - instalacion-placas-solares
+  - alarmas-incendios
+  - reparaciones-electricas
+  - domotica
+  - telecomunicaciones
 - file: nosotros
 - file: equipo
 - file: portfolio

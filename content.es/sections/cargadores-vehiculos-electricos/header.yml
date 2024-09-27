@@ -1,0 +1,21 @@
+anchor: Venta e Instalación de Cargadores para Vehículos Eléctricos
+title: Technimur
+# subtitle: Electricistas
+color: alt-dark
+image: logo.svg
+bg: servicios/cargadores-vehiculos-electricos.jpg
+description: |
+  icon-bolt
+  Potencia y precisión en cada instalación eléctrica
+  icon-bolt
+  {.subtitle}
+
+  Venta e Instalación de Cargadores para Vehículos Eléctricos
+
+  [btn icon-plus Más](#principal)
+more:
+  full_screen: true
+  image_min: 18
+  image_max: 15
+  padding_top: 3
+  # opacity: 100

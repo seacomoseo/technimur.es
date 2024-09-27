@@ -8,9 +8,9 @@ draft: false
 noindex: false
 translationKey: certificates-electrical-installation
 sections:
-- file: boletin-electrico-header
+- file: boletin-electrico/header
 - file: destacamos
-- file: boletin-electrico-servicios
+- file: boletin-electrico/servicios
 - file: nosotros
 - file: equipo
 - file: portfolio

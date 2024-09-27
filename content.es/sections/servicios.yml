@@ -1,7 +1,7 @@
 title: Servicios
 subtitle: ¿Qué hacemos?
 icon: bolt
-bg: servicios-electricista.jpg
+bg: servicios/fondo.jpg
 rows:
 - type: columns
   design:
@@ -11,48 +11,48 @@ rows:
 
   - title: Instalaciones Eléctricas
     subtitle: Residenciales y Comerciales
-    image: servicio-instalaciones-electricas.jpg
+    image: servicios/instalaciones-electricas.jpg
     # icon: plug
     link: '#instalaciones-electricas'
 
   - title: Cargadores
     subtitle: de Vehículos Eléctricos
-    image: servicio-cargadores-vehiculos-electricos.jpg
+    image: servicios/cargadores-vehiculos-electricos.jpg
     # icon: car-bolt
     link: '#cargadores-vehiculos-electricos'
 
   - title: Boletín Eléctrico
     subtitle: y Certificaciones
-    image: servicio-boletin-electrico-certificaciones.jpg
+    image: servicios/boletin-electrico-certificaciones.jpg
     # icon: file-check
     link: '#boletin-electrico-certificaciones'
 
   - title: Instalación de Placas Solares
     subtitle: Fotovoltaicas
-    image: servicio-instalacion-placas-solares.jpg
+    image: servicios/instalacion-placas-solares.jpg
     # icon: solar-panel
     link: '#instalacion-placas-solares'
 
   - title: Alarmas contra Incendios
     # subtitle: 
-    image: servicio-alarma-incendios.jpg
+    image: servicios/alarma-incendios.jpg
     # icon: light-emergency-on
     link: '#alarmas-incendios'
 
   - title: Reparaciones Eléctricas
     # subtitle: y Urgencias
-    image: servicio-reparaciones-electricas.jpg
+    image: servicios/reparaciones-electricas.jpg
     # icon: plug-circle-check
     link: '#reparaciones-electricas'
 
   - title: Domótica
     # subtitle: 
-    image: servicio-domotica.jpg
+    image: servicios/domotica.jpg
     # icon: house-signal
     link: '#domotica'
 
   - title: Telecomunicaciones
     # subtitle: 
-    image: servicio-telecomunicaciones.jpg
+    image: servicios/telecomunicaciones.jpg
     # icon: tower-broadcast
     link: '#telecomunicaciones'

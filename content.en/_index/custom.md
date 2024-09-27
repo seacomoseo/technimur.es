@@ -14,17 +14,17 @@ template:
   modal: {}
   alternate: []
   sections:
-  - file: header-local
+  - file: _header-local
   - file: destacamos
   - file: servicios
     modals:
-    - servicio-instalaciones-electricas
-    - servicio-boletin-electrico-certificaciones
-    - servicio-instalacion-placas-solares
-    - servicio-alarmas-incendios
-    - servicio-reparaciones-electricas
-    - servicio-domotica
-    - servicio-telecomunicaciones
+    - instalaciones-electricas
+    - boletin-electrico-certificaciones
+    - instalacion-placas-solares
+    - alarmas-incendios
+    - reparaciones-electricas
+    - domotica
+    - telecomunicaciones
   - file: nosotros
   - file: equipo
   - file: portfolio

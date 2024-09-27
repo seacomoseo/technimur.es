@@ -30,8 +30,8 @@ rows:
   #   link: https://domoenergy.es/
   # - image: colaboradores/suministros-electricos-beaza.svg
   #   link: https://poligonocabezobeaza.com/directorio/listing/suministros-electricos-beaza-s-l-u
-  - image: colaboradores/grupocrespo.svg
-    link: https://grupocrespo.es/
+  # - image: colaboradores/grupocrespo.svg
+  #   link: https://grupocrespo.es/
   - image: colaboradores/extintorestarvi.svg
     link: https://extintorestarvi.es/
   - image: colaboradores/xtistore.svg

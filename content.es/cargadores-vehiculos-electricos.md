@@ -8,9 +8,9 @@ draft: false
 noindex: false
 translationKey: electric-vehicle-chargers
 sections:
-- file: cargadores-vehiculos-electricos-header
+- file: cargadores-vehiculos-electricos/header
 - file: destacamos
-- file: cargadores-vehiculos-electricos-servicios
+- file: cargadores-vehiculos-electricos/servicios
 - file: nosotros
 - file: equipo
 - file: portfolio

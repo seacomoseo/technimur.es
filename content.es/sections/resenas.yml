@@ -1,7 +1,7 @@
 title: Reseñas
 subtitle: ¿Qué dicen de nosotros?
 icon: comment
-bg: servicio-reparaciones-electricas.jpg
+bg: servicios/reparaciones-electricas.jpg
 rows:
 - type: reviews
   design:

@@ -5,15 +5,13 @@ rows:
 - type: columns
   design:
     num: 2
-    # align_y: center
+    align_y: center
     title: null
     uppercase: true
     underline: true
   items:
   - order: 2
-    bg: portfolio-11.jpg
-    more:
-      align_y: strech
+    image: icon.svg
   - order: 1
     description: |
       En Technimur, somos un equipo de electricistas autorizados y profesionales dedicados a ofrecer un servicio cercano y de alta calidad.
