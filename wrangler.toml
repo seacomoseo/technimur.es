@@ -2,14 +2,5 @@ name = "technimur"
 pages_build_output_dir = "public"
 compatibility_date = "2025-01-03"
 
-[build]
-cache = true
-
 [vars]
 HUGO_VERSION = "0.129.0"
-
-[env.production]
-name = "technimur-production"
-routes = [
-  { pattern = "technimur.es/*", zone_name = "technimur.es" }
-]
