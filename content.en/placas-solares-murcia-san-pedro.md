@@ -1,5 +1,5 @@
 ---
-title: Solar Panels
+title: Solar Panels in San Pedro del Pinatar
 title_seo: ᐅ Installers of Photovoltaic Solar Panels in San Pedro del Pinatar
 slug: solar-panel-installers
 description: llll➤ Installers specialists in solar panels in San Pedro del Pinatar. Sustainable and efficient solutions. Best techniques and competitive prices ✅ Contact us!
@@ -16,4 +16,5 @@ sections:
 - file: placas-solares/portfolio
 - file: resenas
 - file: contacto
+location: San Pedro del Pinatar
 ---

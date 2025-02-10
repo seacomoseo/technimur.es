@@ -11,6 +11,9 @@ description: |
 
   ---
 
+  Electricians
+  {.h6}
+
   - [San Pedro del Pinatar](/en/                                    "Electricians in San Pedro del Pinatar")
   - [Torrevieja](/en/electricians-torrevieja/                       "Electricians in Torrevieja")
   - [Pilar de la Horadada](/en/electricians-pilar-de-la-horadada/   "Electricians in Pilar de la Horadada")
@@ -24,9 +27,19 @@ description: |
 
   - [Electric Vehicle Chargers](/en/electric-vehicle-chargers/      "Sales and Installation of Electric Vehicle Chargers")
   - [Certificates](/en/certificates-electrical-installation/        "Certificates of Electrical Installation in Murcia, Spain")
-  - [Certificates](/en/certificates-electrical-installation/        "Certificates of Electrical Installation in Murcia, Spain")
-  - [Solar Panels](/en/solar-panel-installers/                      "Installers of Photovoltaic Solar Panels in Murcia, Spain")
   {.list-inline}
+
+  Installers of Solar Panels
+  {.h6}
+
+  - [San Pedro del Pinatar](/en/solar-panel-installers/                    "Installers of Photovoltaic Solar Panels in San Pedro del Pinatar")
+  - [Pinar de Campoverde](/en/solar-panel-installers-pinar-de-campo-verde/ "Installers of Photovoltaic Solar Panels in Pinar de Campoverde")
+  - [La Zenia](/en/solar-panel-installers-la-zenia/                        "Installers of Photovoltaic Solar Panels in La Zenia")
+  {.list-inline}
+
+  ---
+more:
+  align: center
 rows:
 - type: columns
   design:

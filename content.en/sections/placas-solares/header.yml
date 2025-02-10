@@ -1,16 +1,16 @@
-anchor: Installers of Photovoltaic Solar Panels in San Pedro del Pinatar
+anchor: Installers of Photovoltaic Solar Panels in {{% param location %}}
 title: Technimur
 # subtitle: Electricians
 color: alt-dark
 image: logo.svg
-bg: servicios/instalacion-placas-solares.jpg
+bg: portfolio/placas-solares/2024-12-18-13-15-48.webm
 description: |
   icon-bolt
   Power and precision in each installation
   icon-bolt
   {.subtitle}
 
-  Installers of Photovoltaic Solar Panels in San Pedro del Pinatar
+  Installers of Photovoltaic Solar Panels in {{% param location %}}
 
   [btn icon-plus More](#main)
 more:

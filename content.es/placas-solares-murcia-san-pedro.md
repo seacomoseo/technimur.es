@@ -1,6 +1,6 @@
 ---
-title: Placas Solares
-title_seo: ᐅ Instaladores de Placas Solares Fotovoltaicas en San Pedro del Pinatar
+title: Placas Solares en San Pedro del Pinatar
+title_seo: ᐅ Instaladores de Placas Solares en San Pedro del Pinatar
 slug: instaladores-placas-solares
 description: llll➤ Instaladores especialistas en placas solares en San Pedro del Pinatar. Soluciones sostenibles y eficientes. Mejores técnicas y precios competitivos ✅ ¡Contáctanos!
 image: logo.png
@@ -16,4 +16,5 @@ sections:
 - file: placas-solares/portfolio
 - file: resenas
 - file: contacto
+location: San Pedro del Pinatar
 ---

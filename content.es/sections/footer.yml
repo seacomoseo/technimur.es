@@ -11,6 +11,9 @@ description: |
 
   ---
 
+  Electricistas
+  {.h6}
+
   - [San Pedro del Pinatar](/                                     "Electricistas en San Pedro del Pinatar")
   - [Torrevieja](/electricistas-torrevieja/                       "Electricistas en Torrevieja")
   - [Pilar de la Horadada](/electricistas-pilar-de-la-horadada/   "Electricistas en Pilar de la Horadada")
@@ -23,9 +26,18 @@ description: |
   - [Torre de la Horadada](/electricistas-torre-de-la-horadada/   "Electricistas en Torre de la Horadada")
 
   - [Cargadores Vehículos Eléctricos](/cargadores-vehiculos-electricos/ "Venta e Instalación de Cargadores para Vehículos Eléctricos")
-  - [Boletín Eléctrico](/boletin-electrico/                       "Boletín Eléctrico y Certificados de Instalación Eléctrica (CIE)")
-  - [Placas Solares](/instaladores-placas-solares/                "Mejores Instaladores de Placas Solares Fotovoltaicas en San Pedro del Pinatar")
+  - [Boletín Eléctrico](/boletin-electrico/                             "Boletín Eléctrico y Certificados de Instalación Eléctrica (CIE)")
   {.list-inline}
+
+  Instaladores de Placas Solares
+  {.h6}
+
+  - [San Pedro del Pinatar](/instaladores-placas-solares/                    "Mejores Instaladores de Placas Solares Fotovoltaicas en San Pedro del Pinatar")
+  - [Pinar de Campoverde](/instaladores-placas-solares-pinar-de-campo-verde/ "Mejores Instaladores de Placas Solares Fotovoltaicas en Pinar de Campoverde")
+  - [La Zenia](/instaladores-placas-solares-la-zenia/                        "Mejores Instaladores de Placas Solares Fotovoltaicas en La Zenia")
+  {.list-inline}
+more:
+  align: center
 rows:
 - type: columns
   design:

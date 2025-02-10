@@ -3,7 +3,7 @@ subtitle: Paneles Solares
 icon: solar-panel
 bg: servicios/instalacion-placas-solares.jpg
 description: |
-  En Technimur, nos enorgullecemos de ser reconocidos como los mejores instaladores de placas solares fotovoltaicas en San Pedro del Pinatar.
+  En Technimur, nos enorgullecemos de ser reconocidos como los mejores instaladores de placas solares fotovoltaicas en {{% param location %}}.
 
   Nuestro equipo de técnicos instaladores especializados en energía solar ofrece soluciones integrales y personalizadas para cada cliente.
 
