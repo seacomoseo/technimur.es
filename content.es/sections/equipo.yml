@@ -21,10 +21,10 @@ rows:
   - title: José Tornero
     # subtitle: Murcia y Alicante
     image: equipo-jose-tornero-cara.jpg
-    label: j.tornero@technimur.es
-    link: mailto:j.tornero@technimur.es
+    # label: j.tornero@technimur.es
+    # link: mailto:j.tornero@technimur.es
   - title: Juan Ribes
     # subtitle: Valencia y Castellón
     image: equipo-juan-ribes-cara.jpg
-    label: j.ribes@technimur.es
-    link: mailto:j.ribes@technimur.es
+    # label: j.ribes@technimur.es
+    # link: mailto:j.ribes@technimur.es

@@ -13,11 +13,11 @@ translationKey: accessibility
 Declaración de Accesibilidad
 {.h1 .uppercase}
 
-**{{% legal name %}}** se ha comprometido a hacer accesibles su sitios web de conformidad con el [Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público](https://www.boe.es/buscar/act.php?id=BOE-A-2018-12699 "nofollow").
+**{{% legal name %}}** se ha comprometido a hacer accesibles su sitios web de conformidad con el [Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público](https://www.boe.es/buscar/act.php?id=BOE-A-2018-12699 "[nofollow]").
 
 ## Situación de cumplimiento
 
-Este sitio web es **parcialmente conforme** con el [RD 1112/2018](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-12699 "nofollow") debido a las excepciones y a la falta de conformidad de los aspectos que se indican a continuación.
+Este sitio web es **parcialmente conforme** con el [RD 1112/2018](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-12699 "[nofollow]") debido a las excepciones y a la falta de conformidad de los aspectos que se indican a continuación.
 
 ## Contenido no accesible
 
@@ -40,7 +40,7 @@ El contenido que se recoge a continuación no es accesible por lo siguiente:
 
 La presente declaración fue preparada el **{{% date %}}**.
 
-El método empleado para la presente declaración ha sido una autoevaluación realizada por la propia empresa con el soporte de la [Herramienta IRA (Informe de Revisión de Accesibilidad)](https://herramienta-ira.administracionelectronica.gob.es/ "nofollow") del Observatorio de Accesibilidad.
+El método empleado para la presente declaración ha sido una autoevaluación realizada por la propia empresa con el soporte de la [Herramienta IRA (Informe de Revisión de Accesibilidad)](https://herramienta-ira.administracionelectronica.gob.es/ "[nofollow]") del Observatorio de Accesibilidad.
 
 Última revisión de la declaración: **{{% date %}}**.
 

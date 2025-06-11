@@ -13,11 +13,11 @@ translationKey: accessibility
 Accessibility Statement
 {.h1 .uppercase}
 
-**{{% legal name %}}** is committed to making its websites accessible in accordance with the [Royal Decree 1112/2018, of September 7, on the accessibility of websites and applications for mobile devices in the public sector](https://www.boe.es/buscar/act.php?id=BOE-A-2018-12699 "nofollow").
+**{{% legal name %}}** is committed to making its websites accessible in accordance with the [Royal Decree 1112/2018, of September 7, on the accessibility of websites and applications for mobile devices in the public sector](https://www.boe.es/buscar/act.php?id=BOE-A-2018-12699 "[nofollow]").
 
 ## Compliance Status
 
-This website is **partially compliant** with [RD 1112/2018](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-12699 "nofollow") due to exceptions and non-compliance regarding the aspects listed below.
+This website is **partially compliant** with [RD 1112/2018](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-12699 "[nofollow]") due to exceptions and non-compliance regarding the aspects listed below.
 
 ## Non-Accessible Content
 
@@ -40,7 +40,7 @@ The content listed below is not accessible for the following reasons:
 
 This statement was prepared on **{{% date %}}**.
 
-The method used for this statement was a self-assessment conducted by the company itself with the support of the [IRA Tool (Accessibility Review Report)](https://herramienta-ira.administracionelectronica.gob.es/ "nofollow") from the Accessibility Observatory.
+The method used for this statement was a self-assessment conducted by the company itself with the support of the [IRA Tool (Accessibility Review Report)](https://herramienta-ira.administracionelectronica.gob.es/ "[nofollow]") from the Accessibility Observatory.
 
 Last review of the statement: **{{% date %}}**.
 

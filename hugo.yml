@@ -1,5 +1,5 @@
 baseURL: https://technimur.es
-Paginate: 24
+# Paginate: 24
 buildFuture: false
 theme: [sansoul]
 params:
@@ -13,7 +13,7 @@ defaultContentLanguage: es
 disableLanguages: [fr]
 languages:
   es:
-    paginatePath: pagina
+    # paginatePath: pagina
     permalinks:
       page:
         pages: :slug
@@ -34,7 +34,7 @@ languages:
         authors: autores
         custom: ubicaciones
   en:
-    paginatePath: page
+    # paginatePath: page
     permalinks:
       page:
         pages: :slug
