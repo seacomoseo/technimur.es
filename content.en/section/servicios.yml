@@ -5,6 +5,7 @@ bi: servicios/fondo.jpg
 box:
   cols: 4
   card: true
+  label: '{{ i18n more }}'
 params:
 - page: destacamos.title
   box: title
