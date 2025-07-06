@@ -66,5 +66,5 @@
 
 # 2025-06-04
 
-/electricistas-*/ /electricistas/:splat/
-/en/electricians-*/ /en/electricians/:splat/
+/electricistas-* /electricistas/:splat
+/en/electricians-* /en/electricians/:splat
