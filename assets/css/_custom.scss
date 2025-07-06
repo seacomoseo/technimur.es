@@ -1,5 +1,5 @@
-// Header Animations
-#body-home #header {
+// Headers Animations
+#header {
   @mixin show-from($delay) {
     animation: show-from .5s (2 + .25s * $delay) both;
   }
@@ -15,12 +15,11 @@
     @include fluid-size(margin-top, 1em, 0, -1);
   }
   .subtitle {
-    // margin: 0;
     display: inline-flex;
+    gap: .5em
   }
 }
-#servicios,
-#services {
+#servicios {
   .boxes .bg-figure-image {
     filter: sepia(1) hue-rotate(calc(#{ hue($dark) } - 50deg)) brightness(0.66);
   }

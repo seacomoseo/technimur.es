@@ -64,7 +64,7 @@
 /en/electricians-silla/ /
 
 
-# 2025-06-04
+# 2025-06-06
 
 /electricistas-* /electricistas/:splat
 /en/electricians-* /en/electricians/:splat
