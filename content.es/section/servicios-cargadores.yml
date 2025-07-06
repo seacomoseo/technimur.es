@@ -2,7 +2,7 @@ name: Servicios ➡️ Cargadores
 id: servicios
 icon: bolt
 bi: servicios/cargadores-vehiculos-electricos.jpg
-align: left
+md_align: left
 params:
 - page: servicios.cargadores.hanchor
   box: hanchor

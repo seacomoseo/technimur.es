@@ -2,7 +2,7 @@ name: Servicios ➡️ Boiletín
 id: servicios
 icon: bolt
 bi: servicios/fondo.jpg
-align: left
+md_align: left
 params:
 - page: servicios.boletin.hanchor
   box: hanchor
