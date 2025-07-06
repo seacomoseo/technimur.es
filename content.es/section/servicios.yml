@@ -7,9 +7,9 @@ box:
   card: true
   label: '{{ i18n more }}'
 params:
-- page: destacamos.title
+- page: servicios.title
   box: title
-- page: destacamos.subtitle
+- page: servicios.subtitle
   box: subtitle
 - page: servicios.boxes
   box: boxes
