@@ -1,5 +1,5 @@
 // Headers Animations
-#header {
+body:not(.type-page) #header {
   @mixin show-from($delay) {
     animation: show-from .5s (2 + .25s * $delay) both;
   }
