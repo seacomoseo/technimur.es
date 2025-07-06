@@ -3,9 +3,9 @@ id: nosotros
 icon: circle-info
 
 params:
-- page: destacamos.title
+- page: nosotros.title
   box: title
-- page: destacamos.subtitle
+- page: nosotros.subtitle
   box: subtitle
 
 box:

@@ -2,6 +2,7 @@ name: Servicios ➡️ Placas Solares
 id: servicios
 icon: solar-panel
 bi: servicios/instalacion-placas-solares.jpg
+align: left
 params:
 - page: servicios.placas_solares.hanchor
   box: hanchor
