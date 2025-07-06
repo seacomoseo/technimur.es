@@ -5,7 +5,7 @@ subtitle: of Electrical Installation
 image: servicios/boletin-electrico-certificaciones.jpg
 icon: file-check
 md: |
-  We offer you the best electric certificates service in {{% param title %}} at the best price:
+  We offer you the best electric certificates service in {{% param location %}} at the best price:
 
   [[:plus: More info]](/en/certificates-electrical-installation/ "Electrical Installation Certificates in Murcia, Spain")
 hanchor: Certificates of Electrical Installation

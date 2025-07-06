@@ -5,6 +5,6 @@ subtitle: de Vehículos Eléctricos
 image: servicios/cargadores-vehiculos-electricos.jpg
 icon: car-bolt
 md: |
-  Te ofrecemos el mejor servicio de venta e instalación de cargadores de vehículos eléctricos en {{% param title %}} al mejor precio:
+  Te ofrecemos el mejor servicio de venta e instalación de cargadores de vehículos eléctricos en {{% param location %}} al mejor precio:
 
   [[:plus: Más información]](/cargadores-vehiculos-electricos/ "Venta e Instalación de Cargadores para Vehículos Eléctricos")

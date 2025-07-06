@@ -1,11 +1,11 @@
 name: Instalaciones Electricas
 id: electrical-installations
-title: Electrical Installations in {{% param title %}}
+title: Electrical Installations in {{% param location %}}
 subtitle: Residential and Commercial
 image: servicios/instalaciones-electricas.jpg
 icon: plug
 md: |
-  At Technimur, we offer you a quality electrical installation service in {{% param title %}} to meet all your electrical requirements.
+  At Technimur, we offer you a quality electrical installation service in {{% param location %}} to meet all your electrical requirements.
 
   Our team of professionals complies to the letter with the current REBT regulations and advises you on the location of mechanisms and points of light.
 

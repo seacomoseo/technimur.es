@@ -54,12 +54,12 @@ servicios:
   modals:
 
   - id: electrical-installations
-    title: Electrical Installations in {{% param title %}}
+    title: Electrical Installations in {{% param location %}}
     subtitle: Residential and Commercial
     image: servicios/instalaciones-electricas.jpg
     icon: plug
     md: |
-      At Technimur, we offer you a quality electrical installation service in {{% param title %}} to meet all your electrical requirements.
+      At Technimur, we offer you a quality electrical installation service in {{% param location %}} to meet all your electrical requirements.
 
       Our team of professionals complies to the letter with the current REBT regulations and advises you on the location of mechanisms and points of light.
 
@@ -74,7 +74,7 @@ servicios:
     image: servicios/cargadores-vehiculos-electricos.jpg
     icon: car-bolt
     md: |
-      We offer you the best service of sale and installation of electric vehicle chargers in {{% param title %}} at the best price:
+      We offer you the best service of sale and installation of electric vehicle chargers in {{% param location %}} at the best price:
 
       [[:plus: More information]](/en/electric-vehicle-chargers/ "Sales and Installation of Electric Vehicle Chargers")
 
@@ -85,7 +85,7 @@ servicios:
     image: servicios/boletin-electrico-certificaciones.jpg
     icon: file-check
     md: |
-      We offer you the best electric certificates service in {{% param title %}} at the best price:
+      We offer you the best electric certificates service in {{% param location %}} at the best price:
 
       [[:plus: More info]](/en/certificates-electrical-installation/ "Electrical Installation Certificates in Murcia, Spain")
 
@@ -95,7 +95,7 @@ servicios:
     image: servicios/instalacion-placas-solares.jpg
     icon: solar-panel
     md: |
-      We offer an exceptional service in the installation of photovoltaic solar panels in {{% param title %}}:
+      We offer an exceptional service in the installation of photovoltaic solar panels in {{% param location %}}:
 
       <!--
       adapting to all your sustainable energy needs.
@@ -115,7 +115,7 @@ servicios:
     image: servicios/alarmas-incendios.jpg
     icon: light-emergency-on
     md: |
-      Fire alarms are a fundamental resource to safeguard properties, both residential and commercial, in {{% param title %}}.
+      Fire alarms are a fundamental resource to safeguard properties, both residential and commercial, in {{% param location %}}.
       At Technimur Electricians, we offer effective solutions that ensure the safety of your loved ones and your assets.
 
       Our advanced fire alarms employ cutting-edge technology and interconnected components to detect any sign of fire.
@@ -127,11 +127,11 @@ servicios:
       At TechniMur, your safety is our priority.
 
   - id: electrical-repairs
-    title: Electrical Repairs in {{% param title %}}
+    title: Electrical Repairs in {{% param location %}}
     image: servicios/reparaciones-electricas.jpg
     icon: plug-circle-check
     md: |
-      We solve any electrical problem quickly and efficiently in {{% param title %}}!
+      We solve any electrical problem quickly and efficiently in {{% param location %}}!
 
       We are committed to providing you with the best service possible, whether it's an emergency such as a power outage or a minor breakdown.
 
@@ -142,7 +142,7 @@ servicios:
     image: servicios/domotica.jpg
     icon: house-signal
     md: |
-      Transform your home or business in {{% param title %}} into an intelligent space with our home automation systems.
+      Transform your home or business in {{% param location %}} into an intelligent space with our home automation systems.
 
       Control lighting, climate control and security from your mobile device, providing comfort and energy efficiency.
 
@@ -158,7 +158,7 @@ servicios:
       - Network Cabling
       - Access Points
       - Fiber Optics
-      - In {{% param title %}}
+      - In {{% param location %}}
 
       We're here to make sure you're always connected.
 

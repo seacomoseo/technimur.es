@@ -5,7 +5,7 @@ subtitle: Photovoltaic
 image: servicios/instalacion-placas-solares.jpg
 icon: solar-panel
 md: |
-  We offer an exceptional service in the installation of photovoltaic solar panels in {{% param title %}}:
+  We offer an exceptional service in the installation of photovoltaic solar panels in {{% param location %}}:
 
   <!--
   adapting to all your sustainable energy needs.

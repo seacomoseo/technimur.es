@@ -1,10 +1,10 @@
 name: Reparaciones Electricas
 id: reparaciones-electricas
-title: Reparaciones Eléctricas en {{% param title %}}
+title: Reparaciones Eléctricas en {{% param location %}}
 image: servicios/reparaciones-electricas.jpg
 icon: plug-circle-check
 md: |
-  ¡Solucionamos cualquier problema eléctrico de forma rápida y eficiente en {{% param title %}}!
+  ¡Solucionamos cualquier problema eléctrico de forma rápida y eficiente en {{% param location %}}!
 
   Estamos comprometidos a ofrecerle el mejor servicio posible, ya sea que se trate de una emergencia como un corte de luz o una avería menor.
 

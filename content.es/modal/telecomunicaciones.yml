@@ -11,6 +11,6 @@ md: |
   - Cableado de Red
   - Puntos de Acceso
   - Fibra Óptica
-  - En {{% param title %}}
+  - En {{% param location %}}
 
   Estamos aquí para garantizar que estés siempre conectado.

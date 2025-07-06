@@ -11,6 +11,6 @@ md: |
   - Network Cabling
   - Access Points
   - Fiber Optics
-  - In {{% param title %}}
+  - In {{% param location %}}
 
   We're here to make sure you're always connected.

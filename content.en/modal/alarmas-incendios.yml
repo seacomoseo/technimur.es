@@ -5,7 +5,7 @@ subtitle: Protect your home or business with our fire alarms in San Pedro del Pi
 image: servicios/alarmas-incendios.jpg
 icon: light-emergency-on
 md: |
-  Fire alarms are a fundamental resource to safeguard properties, both residential and commercial, in {{% param title %}}.
+  Fire alarms are a fundamental resource to safeguard properties, both residential and commercial, in {{% param location %}}.
   At Technimur Electricians, we offer effective solutions that ensure the safety of your loved ones and your assets.
 
   Our advanced fire alarms employ cutting-edge technology and interconnected components to detect any sign of fire.

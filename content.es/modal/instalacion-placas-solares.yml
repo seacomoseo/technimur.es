@@ -5,7 +5,7 @@ subtitle: Fotovoltaicas
 image: servicios/instalacion-placas-solares.jpg
 icon: solar-panel
 md: |
-  Ofrecemos un servicio excepcional en la instalación de placas solares fotovoltaicas en {{% param title %}}:
+  Ofrecemos un servicio excepcional en la instalación de placas solares fotovoltaicas en {{% param location %}}:
 
   <!--
   adaptándonos a todas tus necesidades energéticas sostenibles.
