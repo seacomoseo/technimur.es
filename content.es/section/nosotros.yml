@@ -1,0 +1,22 @@
+name: Nosotros
+id: nosotros
+icon: circle-info
+
+params:
+- page: destacamos.title
+  box: title
+- page: destacamos.subtitle
+  box: subtitle
+
+box:
+  cols: 2
+  duo: 2
+  align: left
+  align_y: center
+  caps: true
+  line: true
+boxes:
+- image: base/icon.svg
+- params:
+  - page: nosotros.md
+    box: md

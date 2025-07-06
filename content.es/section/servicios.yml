@@ -1,0 +1,16 @@
+name: Servicios
+id: servicios
+icon: bolt
+bi: servicios/fondo.jpg
+box:
+  cols: 4
+  card: true
+params:
+- page: destacamos.title
+  box: title
+- page: destacamos.subtitle
+  box: subtitle
+- page: servicios.boxes
+  box: boxes
+- page: servicios.modals
+  box: modals

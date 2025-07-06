@@ -1,0 +1,23 @@
+name: Equipo
+id: equipo
+icon: user-group
+size: sm
+
+params:
+- page: equipo.title
+  box: title
+- page: equipo.subtitle
+  box: subtitle
+
+box:
+  line: true
+  border: main
+  swap: true
+  pin: envelope
+  circle: true
+  cols: 2
+boxes:
+- title: José Tornero
+  image: equipo-jose-tornero-cara.jpg
+- title: Juan Ribes
+  image: equipo-juan-ribes-cara.jpg

@@ -1,0 +1,28 @@
+name: Cabecera
+color: alt-dark
+bi: fondo.webm
+alpha: 0
+pt: 3
+full: true
+box:
+  node: div
+boxes:
+- image: base/logo.svg
+  fit: .25
+  fit_vs: .8
+- title: Technimur
+  caps: true
+  md: |
+    :bolt:
+    {{% param header.subtitle %}}
+    :bolt:
+    {.subtitle}
+
+    {{% param header.md %}}
+
+    [[:plus: {{% i18n more %}}]](#more)
+params:
+- page: header.bi
+  box: bi
+- page: header.hanchor
+  box: hanchor

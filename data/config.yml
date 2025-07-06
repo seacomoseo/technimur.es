@@ -1,50 +1,133 @@
-title: Electricistas Technimur
-description: Ofrecemos los mejores servicios de electricista a precios competitivos. Technimur ofrece soluciones a los problemas relacionados con la electricidad.
-logo: logo.png
-legal_name: Jose Maria Tornero Puga
-legal_dni: 20856634G
-legal_email: ''
-legal_location: ''
-country: España
-location_type:
-- LocalBusiness
-- Organization
-alternate_name:
-- Technimur
-- Technimur Electricistas
-price_range: €
-google_analytics: G-ZYEGN8CW76
-google_site_verification: ''
-google_file_verification: google7467d923cbb3eb4c.html
-disqus: ''
-cookies_legal: false
-analytics_pagespeed: true
-process_all_images: false
-cms: true
-cms_editorial_workflow: false
-development: false
-custom_code:
-  html_head:
-    code: ''
-    lang: html
-  html_body:
-    code: ''
-    lang: html
-  css:
-    code: ''
-  js:
-    code: ''
-    lang: javascript
-social:
-- link: https://g.page/r/Ceu-g_MFBM04EAI
-- link: https://g.page/r/CcPQveZNbvAnEBE
-- link: https://g.page/r/CY5DclnvGgplEBM
-- link: https://www.instagram.com/technimur_electricistas/
-
-en:
+langs:
+- lang: es
+  title: Electricistas Technimur
+  description: Ofrecemos los mejores servicios de electricista a precios competitivos. Technimur ofrece soluciones a los problemas relacionados con la electricidad.
+  google_file_verification: google7467d923cbb3eb4c.html
+- lang: en
   title: Technimur Electricians
   description: We offer the best electrician services at competitive prices. Technimur offers solutions to problems related to electricity.
-  alternate_name:
-  - Electricistas Technimur
-  - Technimur
-  - Technimur Electricistas
+
+params:
+
+- name: destacamos
+  label: Destacamos
+  widget: object
+  params:
+  - var: BOX_TITLE
+  - var: BOX_SUBTITLE
+
+- name: caracteriza
+  label: Nos Caracteriza
+  widget: object
+  params:
+  - var: BOX_SUBTITLE
+  - name: boxes
+    label: Puntos
+    widget: list
+    params:
+    - var: BOX_ICON_ID
+    - var: BOX_TITLE
+    - var: BOX_SUBTITLE
+    - var: BOX_MD
+
+- name: servicios
+  label: Servicios
+  widget: object
+  params:
+  - var: BOX_TITLE
+  - var: BOX_SUBTITLE
+  - name: boxes
+    label: Puntos
+    widget: list
+    params:
+    - var: BOX_TITLE
+    - var: BOX_SUBTITLE
+    - var: BOX_IMAGE_SRC
+    - var: BOX_BUTTON_LINK
+  - name: modals
+    label: Popups
+    widget: list
+    params:
+    - var: BOX_ID
+    - var: BOX_HANCHOR
+    - var: BOX_TITLE
+    - var: BOX_SUBTITLE
+    - var: BOX_ICON_ID
+    - var: BOX_MD
+  - name: placas_solares
+    label: Placas Solares
+    widget: object
+    params:
+    - var: BOX_HANCHOR
+    - var: BOX_TITLE
+    - var: BOX_SUBTITLE
+    - var: BOX_MD
+  - name: cargadores
+    label: Cargadores de Coches Eléctricos
+    widget: object
+    params:
+    - var: BOX_HANCHOR
+    - var: BOX_TITLE
+    - var: BOX_SUBTITLE
+    - var: BOX_MD
+  - name: boletin
+    label: Boletín
+    widget: object
+    params:
+    - var: BOX_HANCHOR
+    - var: BOX_TITLE
+    - var: BOX_SUBTITLE
+    - var: BOX_MD
+
+- name: nosotros
+  label: Nosotros
+  widget: object
+  params:
+  - var: BOX_TITLE
+  - var: BOX_SUBTITLE
+  - var: BOX_MD
+
+- name: equipo
+  label: Equipo
+  widget: object
+  params:
+  - var: BOX_TITLE
+  - var: BOX_SUBTITLE
+
+- name: portfolio
+  label: Portfolio
+  widget: object
+  params:
+  - var: BOX_TITLE
+  - var: BOX_SUBTITLE
+
+- name: resenas
+  label: Reseñas
+  widget: object
+  params:
+  - var: BOX_TITLE
+  - var: BOX_SUBTITLE
+  - name: more
+    label: Botón "Más Reseñas"
+  - var: BOX_REVIEWS
+
+- name: contacto
+  label: Contacto
+  widget: object
+  params:
+  - var: BOX_TITLE
+  - var: BOX_SUBTITLE
+  - name: days
+    label: Días
+  - name: name
+    label: Nombre
+  - name: phone
+    label: Teléfono
+  - name: message
+    label: Mensaje
+
+- name: footer
+  label: Footer
+  widget: object
+  params:
+  - var: BOX_MD

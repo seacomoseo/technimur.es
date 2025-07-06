@@ -1,0 +1,13 @@
+name: Servicios ➡️ Cargadores
+id: servicios
+icon: bolt
+bi: servicios/cargadores-vehiculos-electricos.jpg
+params:
+- page: servicios.cargadores.hanchor
+  box: hanchor
+- page: servicios.cargadores.title
+  box: title
+- page: servicios.cargadores.subtitle
+  box: subtitle
+- page: servicios.cargadores.md
+  box: md

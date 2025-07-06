@@ -1,0 +1,424 @@
+destacamos:
+  title: Destacamos
+  subtitle: Confían en nosotros
+
+caracteriza:
+  subtitle: ¿Qué nos caracteriza?
+  boxes:
+  - icon: clock
+    title: Formality
+    subtitle: Unparalleled punctuality and commitment
+    md: At TechniMur, punctuality is essential. We meet deadlines with precision to provide you with reliable electrical service without delays.
+  - icon: shield
+    title: Security
+    subtitle: The peace of mind of being in good hands
+    md: Your safety is our priority. Our certifications ensure rigorous standards, and we offer protective solutions for a protected environment.
+  - icon: star
+    title: Quality
+    subtitle: Excellence is our standard
+    md: Every installation and project carries with it our passion for excellence. Quality workmanship and materials reflect long-lasting products and exceptional results.
+
+servicios:
+  title: Services
+  subtitle: What we do?
+  boxes:
+  - title: Electrical Installations
+    subtitle: Residential and Commercial
+    image: servicios/instalaciones-electricas.jpg
+    link: '#electrical-installations'
+  - title: Chargers
+    subtitle: of Electric Vehicles
+    image: servicios/cargadores-vehiculos-electricos.jpg
+    link: '#electric-vehicle-chargers'
+  - title: Certificates
+    subtitle: of Electrical Installation
+    image: servicios/boletin-electrico-certificaciones.jpg
+    link: '#certificates-electrical-installation'
+  - title: Installation of Solar Panels
+    subtitle: Photovoltaic
+    image: servicios/instalacion-placas-solares.jpg
+    link: '#solar-panel-installers'
+  - title: Fire Alarms
+    image: servicios/alarma-incendios.jpg
+    link: '#fire-alarms'
+  - title: Electrical Repairs
+    image: servicios/reparaciones-electricas.jpg
+    link: '#electrical-repairs'
+  - title: Home Automation
+    image: servicios/domotica.jpg
+    link: '#home-automation'
+  - title: Telecommunications
+    image: servicios/telecomunicaciones.jpg
+    link: '#telecommunications'
+
+  modals:
+
+  - id: electrical-installations
+    title: Electrical Installations in {{% param title %}}
+    subtitle: Residential and Commercial
+    image: servicios/instalaciones-electricas.jpg
+    icon: plug
+    md: |
+      At Technimur, we offer you a quality electrical installation service in {{% param title %}} to meet all your electrical requirements.
+
+      Our team of professionals complies to the letter with the current REBT regulations and advises you on the location of mechanisms and points of light.
+
+      We are committed to make your ideas and needs come true.
+
+      Come and discover a world of opportunities with us!
+
+
+  - id: electric-vehicle-chargers
+    title: Chargers
+    subtitle: of Electric Vehicles
+    image: servicios/cargadores-vehiculos-electricos.jpg
+    icon: car-bolt
+    md: |
+      We offer you the best service of sale and installation of electric vehicle chargers in {{% param title %}} at the best price:
+
+      [[:plus: More information]](/en/electric-vehicle-chargers/ "Sales and Installation of Electric Vehicle Chargers")
+
+  - id: certificates-electrical-installation
+    hanchor: Certificates of Electrical Installation
+    title: Certificates
+    subtitle: of Electrical Installation
+    image: servicios/boletin-electrico-certificaciones.jpg
+    icon: file-check
+    md: |
+      We offer you the best electric certificates service in {{% param title %}} at the best price:
+
+      [[:plus: More info]](/en/certificates-electrical-installation/ "Electrical Installation Certificates in Murcia, Spain")
+
+  - id: solar-panel-installers
+    title: Installation of Solar Panels
+    subtitle: Photovoltaic
+    image: servicios/instalacion-placas-solares.jpg
+    icon: solar-panel
+    md: |
+      We offer an exceptional service in the installation of photovoltaic solar panels in {{% param title %}}:
+
+      <!--
+      adapting to all your sustainable energy needs.
+
+      Our expert team strictly adheres to current regulations and provides you with personalized advice on the selection and optimal location of your solar panels.
+
+      Committed to efficiency and innovation, we work to make your renewable energy projects a tangible and effective reality.
+
+      Explore with us a greener future full of energy possibilities!
+      -->
+
+      [[:plus: More info]](/en/solar-panel-installers/ "Installers of Photovoltaic Solar Panels in San Pedro del Pinatar")
+
+  - id: fire-alarms
+    title: Fire Alarms
+    subtitle: Protect your home or business with our fire alarms in San Pedro del Pinatar
+    image: servicios/alarmas-incendios.jpg
+    icon: light-emergency-on
+    md: |
+      Fire alarms are a fundamental resource to safeguard properties, both residential and commercial, in {{% param title %}}.
+      At Technimur Electricians, we offer effective solutions that ensure the safety of your loved ones and your assets.
+
+      Our advanced fire alarms employ cutting-edge technology and interconnected components to detect any sign of fire.
+      This provides early warning, allowing those present to take immediate action and prevent serious damage.
+
+      Our highly trained team customizes each installation to meet the specific needs of your San Pedro del Pinatar property.
+      Your safety is our primary concern, and we pride ourselves on providing you with a tailor-made fire protection solution.
+      Find out more about our fire alarms in San Pedro del Pinatar and take steps to secure what you value most.
+      At TechniMur, your safety is our priority.
+
+  - id: electrical-repairs
+    title: Electrical Repairs in {{% param title %}}
+    image: servicios/reparaciones-electricas.jpg
+    icon: plug-circle-check
+    md: |
+      We solve any electrical problem quickly and efficiently in {{% param title %}}!
+
+      We are committed to providing you with the best service possible, whether it's an emergency such as a power outage or a minor breakdown.
+
+      If you need help, we're here to help!
+
+  - id: home-automation
+    title: Home Automation
+    image: servicios/domotica.jpg
+    icon: house-signal
+    md: |
+      Transform your home or business in {{% param title %}} into an intelligent space with our home automation systems.
+
+      Control lighting, climate control and security from your mobile device, providing comfort and energy efficiency.
+
+  - id: telecommunications
+    title: Telecommunications
+    image: servicios/telecomunicaciones.jpg
+    icon: tower-broadcast
+    md: |
+      Keep your connection in perfect condition with our telecommunications services.
+
+      - Terrestrial Antennas (DTT)
+      - Parabolic Antennas
+      - Network Cabling
+      - Access Points
+      - Fiber Optics
+      - In {{% param title %}}
+
+      We're here to make sure you're always connected.
+
+  placas_solares:
+    title: Services
+    subtitle: Solar Panels
+    md: |
+      At Technimur, we are proud to be recognized as the best installers of solar photovoltaic panels in {{% param location %}}.
+
+      Our team of installation technicians specialized in solar energy offers integral and personalized solutions for each client.
+
+      We understand that each installation is unique, so our solar panel installers work closely with you to ensure that your photovoltaic system not only meets your expectations, but also maximizes its efficiency and performance.
+
+      From initial analysis to final installation, we are committed to providing the highest quality service, ensuring that each solar panel performs to its maximum potential.
+
+      Whether for your home or business, we have the ability to design and implement solar panel systems that not only reduce your carbon footprint, but also optimize your investment.
+
+      Trust us to make your transition to solar a smooth and satisfying experience.
+
+  cargadores:
+    hanchor: Installation of Electric Car Chargers
+    title: Services
+    subtitle: Sales and Installation
+    md: |
+      Are you looking for the best solution to charge your electric vehicle at home? At Technimur, we are experts in the installation of electric car chargers, offering a professional and personalized service tailored to your needs.
+
+      ### Why choose our services?
+
+      - **Proven Experience:** We have years of experience in the installation of electric vehicle charging systems in single-family homes and community garages.
+      - **Guaranteed Compatibility:** We work with the best brands in the market, such as Circutor and V2C, ensuring compatibility and efficiency in each installation.
+      - **Installation of your charger:** If you already have a charger, we can install it ensuring that it complies with all safety and energy efficiency regulations under the IRVE (Electric Vehicle Charging Infrastructure).
+
+      ### Services Offered
+
+      - **Installation of Home and Community Chargers:** We design and implement the necessary infrastructure for the installation of chargers in your home or community spaces.
+      - **Personalized Advice:** We advise you on the type of charger that best suits your needs and the type of your vehicle.
+      - **Maintenance and Warranty:** We offer preventive and corrective maintenance services, with extended warranties for your peace of mind.
+
+      ### Electric Vehicle Chargers at Competitive Prices
+
+      At Technimur, we not only offer expert installation, but also competitive pricing on all of our chargers. Explore our options from basic chargers to advanced three-phase and fast charging models, always with the best value in the market.
+
+      Ready to enhance your home charging experience?
+
+      [[Contact us]](#contact)
+
+  boletin:
+    title: Services
+    subtitle: Certificates of Electrical Installation
+    md: |
+      Do you need an electrical certificate or bulletin in Murcia? Look no further! In TechniMur we offer you the best service of electrical bulletin in the city at the best price. Don't wait any longer, contact us to get your electrical certificate.
+
+      An electrical bulletin, also known as an electrical bulletin or electrical installation certificate (CIE), is an essential document to ensure that your electrical installation complies with the current REBT regulations and the requirements of the supply companies. If you need an electrical bulletin in Murcia, trust our team of authorized installers to ensure the safety of your electrical installation.
+
+      ### Authorized Installers in the Murcia Region
+
+      Our authorized installers in Murcia are highly qualified professionals who have the necessary certification and experience to manage and process electrical bulletins in the region. If you need an electrical bulletin in Murcia, they are the experts you should turn to.
+
+      ### When is an electrical bulletin in Murcia necessary?
+
+      An electrical bulletin is always necessary in new works and in installations with more than 20 years old when a new registration is requested or a modification of power greater than 50% indicated by the general automatic. In addition, it is mandatory in commercial premises that change their activity or request a new registration. Do not wait any longer and make sure you have the bulletin or certificate of electrical installation that you need in Murcia.
+
+      ### How long does it take to issue an electrical bulletin in Murcia?
+
+      At TechniMur, we understand that sometimes you need the electrical bulletin urgently. Contact us and we will do our best to speed up the process. In general, the issuance of the certificate usually takes between 1 day and 2 weeks, depending on whether an inspection is required. If necessary, we will work to get you your electrical certificate as soon as possible.
+
+      ### Affordable Prices for your Electrical Bulletin
+
+      Getting an electrical report doesn't have to be expensive.
+
+      At Technimur, we offer competitive and transparent pricing for the issuance of your electric and light bulletin. Whether you need an electrical bulletin for a new installation, a renovation or to ensure the safety of your electrical system, we have affordable rates to suit your needs.
+
+      Don't compromise quality for cost; our team of certified electricians ensures exceptional service at a fair price. Consult with us today to get a quote tailored to your specific requirements and discover how affordable electrical safety and compliance can be.
+
+      In the specific case of Electrical Bulletins we have the most competitive price in Murcia: 150 € (IVA not included).
+
+nosotros:
+  title: About Us
+  subtitle: Who are we?
+  md: |
+    At Technimur, we are a team of licensed and professional electricians dedicated to offer a close and high quality service.
+
+    We specialize in a reduced range of locations to ensure a fast and efficient response, beating the competition in response times.
+
+    We offer our services to individuals, communities of owners and companies, adapting to the specific needs of each client.
+
+    In less than 2 years, we have accumulated more than 100 positive reviews on Google, which supports our commitment to excellence and customer satisfaction.
+
+    Our main goal is to earn your trust and maintain a long-lasting relationship, always with a friendly and professional attitude.
+
+    At Technimur, your peace of mind and satisfaction are our priority.
+
+equipo:
+  title: Team
+  subtitle: More about us?
+
+portfolio:
+  title: Portfolio
+  subtitle: What are our jobs like?
+
+resenas:
+  title: Reviews
+  subtitle: What do they say about us?
+  more: More reviews
+  reviews:
+  - title: Juanan
+    md: |
+      When you look for a professional, you want him to be efficient.
+
+      I have been attended by José María, and you can tell when you know your job, as has been the case with José María.
+
+      He has attended and answered each of the doubts that I have raised and has gone beyond the order placed.
+
+      Quickness from the contact through the form to the visit.
+
+      Efficiency and speed in the repair.
+
+      Price according to the work done, but it is one of those times that you are also happy with everything in general.
+
+      I keep it as a reference, for anyone who asks me.
+    image: https://lh3.googleusercontent.com/a/ACg8ocLJwzoCWfoz4xZgVLUp2WWwdFw29nhFJNlNFFWw1kJivAMpPw=s136
+  - title: Roman L.
+    md: |
+      Jose and Juan Manuel did a great job.
+
+      They installed a Tesla Wall Connector with the balancing kit, which looked top 👌 I chose them after comparing them with other electricians for inspiring confidence and high professionalism from the very first moment, and they exceeded all my expectations to the end.
+
+      Both the installation itself and the communication from start to finish (even the quote is very detailed) and the efficiency, always available and reactive, taking sensible initiatives prioritizing my interest at every moment.
+
+      For example, they gave me exhaustive advice on the right balancing kit, and they took care of the discretion of the tubes in common areas.
+
+      They showed extraordinary attention to detail in these days, with humility in times of doubt and actively informing me.
+
+      They fulfilled their words without the slightest failure, the truth is that I could not be more satisfied.
+
+      It is a pleasure to deal with people like that, I wish them the bright future they deserve and are earning with vivacity 💪.
+    image: https://lh3.googleusercontent.com/a/ACg8ocKVBmNppFoVl0OjPfrPa3qelxl2h2OKqvmUQYq5B7ValzZwZQ=s136
+  - title: Macu C.
+    md: |
+      Professional, attentive and at a good price .
+
+      Who gives more?
+      He knows what he is doing, he solves quickly the mishaps, he is punctual and committed.
+
+      For me it has been a great discovery and I already have electrician for everything I need, no doubt he is a great professional! I recommend him 200%.
+    image: https://lh3.googleusercontent.com/a/ACg8ocJer1HgR6grT2ers_qor0jBD9gVHHZ5VgkAd_DFG-5K-zjWJA=s136
+  - title: Kale G.
+    md: |
+      Excellent service.
+
+      Jose Maria was very fast and efficient.
+
+      Quality work!  And the price is unbeatable.
+
+      Good, nice and cheap.
+    image: https://lh3.googleusercontent.com/a/ACg8ocK-RIvTSKOtUqplHQgs8x5_yxZe03yLVBs5HuhZLDPosPOdvA=s136
+  - title: Jaime M.
+    md: |
+      200% recommended! I called him for an electrical problem and within the day he made time to come, go get the parts and fix the problem, and process the paperwork.
+
+      Also very friendly, professional and efficient.
+
+      Thank you
+    image: https://lh3.googleusercontent.com/a/ACg8ocIbw8pKU7c6B5JP8oDJw89z4GrpM5O_vPgUa37R5ihdsMuxFq0=s136
+  - title: Gonzalo R.
+    md: |
+      Excellent service.
+
+      I called them and in a very short time they came.
+
+      The repair they had to do was of an excellent standard, super fast and the price was optimal.
+
+      Highly recommended!!!
+    image: https://lh3.googleusercontent.com/a-/ALV-UjUzAT1v5_CI5ujnQanzZjj9zCtp_DvoABvXCE71nHxgHSZcZRqUBQ=s136
+  - title: A V.
+    md: |
+      They have installed cable throughout the house and have installed and configured WiFi system throughout the house.
+
+      Very satisfied with the treatment and service provided.
+
+      Jose Maria works with great professionalism.
+
+      They solve in a masterful way the incidents that may arise.
+
+      Totally balanced value for money.
+
+      Very satisfied.
+
+      I will call them again for sure.
+    image: https://lh3.googleusercontent.com/a/ACg8ocKaAwD9LZBoMqhdq-VXt_xS_5EsICpGRPZUR8e9ipSYkvqyGA=s136
+  - title: Lorna C.
+    md: |
+      Excellent, super professional, you can tell they know what they are doing, fast and efficient! I highly recommend them!
+    image: https://lh3.googleusercontent.com/a-/ALV-UjWNr3WAPsYfXcBPrZr1pCx9ZO_SXCl4QUGcP-7SmOwtonrnM5WlIQ=s136
+  - title: Esdras D.
+    md: |
+      Very professional, good treatment and fair price.
+
+      They are very committed to the work and the customer.
+
+      I recommend 100%.
+    image: https://lh3.googleusercontent.com/a-/ALV-UjWr3KrQI0CzUS79jKoRR8eV04eblpTxzJ-kx7Q6XcZVLe5M_X1vwQ=s136
+  - title: Joaquin F.
+    md: |
+      Very professional technician, we are very satisfied with their work, personal to keep in the agenda, with good value for money.
+
+      Highly recommended.
+    image: https://lh3.googleusercontent.com/a/ACg8ocLPu4l0LhIhwpvw9F3DJ0453vsN4GKLL4LjmaRs-__zg-QsVg=s136
+
+contacto:
+  title: Contact
+  subtitle: How can we help you?
+  days: Monday - Friday
+  name: Name
+  phone: Phone
+  message: Message
+
+footer:
+  md: |
+    <br>
+
+    - :copyright:        {{< internal-link index >}}
+    - :scale-balanced:   {{< internal-link legal >}}
+    - :shield-keyhole:   {{< internal-link privacy >}}
+    - :cookie-bite:      {{< internal-link cookies >}}
+    - :universal-access: {{< internal-link accesibilidad >}}
+    {.list-inline}
+    <!--
+    - :seacomoseo:       {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
+    -->
+
+    <br>
+
+    Electricians
+    {.h6}
+
+    - [San Pedro del Pinatar](/en/                                    "Electricians in San Pedro del Pinatar")
+    - [Torrevieja](/en/electricians/torrevieja/                       "Electricians in Torrevieja")
+    - [Pilar de la Horadada](/en/electricians/pilar-de-la-horadada/   "Electricians in Pilar de la Horadada")
+    - [Los Alcázares](/en/electricians/los-alcazares/                 "Electricians in Los Alcázares")
+    - [San Javier](/en/electricians/san-javier/                       "Electricians in San Javier")
+    - [La Zenia](/en/electricians/la-zenia/                           "Electricians in La Zenia")
+    - [Lo Pagan](/en/electricians/lo-pagan/                           "Electricians in Lo Pagan")
+    - [Cabo Roig](/en/electricians/cabo-roig/                         "Electricians in Cabo Roig")
+    - [Campoamor](/en/electricians/campoamor/                         "Electricians in Campoamor")
+    - [Torre de la Horadada](/en/electricians/torre-de-la-horadada/   "Electricians in Torre de la Horadada")
+
+    - [Electric Vehicle Chargers](/en/electric-vehicle-chargers/      "Sales and Installation of Electric Vehicle Chargers")
+    - [Certificates](/en/certificates-electrical-installation/        "Certificates of Electrical Installation in Murcia, Spain")
+    {.list-inline}
+
+    Installers of Solar Panels
+    {.h6}
+
+    - [San Pedro del Pinatar](/en/solar-panel-installers/                    "Installers of Photovoltaic Solar Panels in San Pedro del Pinatar")
+    - [Pinar de Campoverde](/en/solar-panel-installers-pinar-de-campo-verde/ "Installers of Photovoltaic Solar Panels in Pinar de Campoverde")
+    - [La Zenia](/en/solar-panel-installers-la-zenia/                        "Installers of Photovoltaic Solar Panels in La Zenia")
+    {.list-inline}
+
+    <br>
+
+    FINANCED BY THE EUROPEAN UNION THROUGH THE DIGITAL KIT PROGRAM, BY THE NEXT GENERATION EU FUNDS OF THE RECOVERY AND RESILIENCE PLAN MECHANISM
+    {.review__subtitle}

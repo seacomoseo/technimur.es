@@ -1,0 +1,92 @@
+icons:
+  type: solid
+  sharp: false
+  emojis: false
+  play: youtube-iframe
+  up:
+  down:
+  left:
+  right:
+fonts:
+  base:
+    google: false
+    family: Athiti
+    weight: 400
+    bold: 0
+    italic: false
+    line_height: 1.25
+  cursive:
+    google: false
+    family: Orbitron
+    weight: 400
+    bold: 0
+    italic: false
+    line_height: 1.25
+    size: 1
+    top: 0
+  title:
+    google: false
+    family: Black Ops One
+    weight: 400
+    bold: 0
+    italic: false
+    line_height: 1.25
+    size: 1
+    top: 0
+  blockquote_cursive: false
+colors:
+  main:
+    color: '#f2ae21'
+    light: ''
+    dark: ''
+    contrast:
+      fill: false
+      in: true
+      text: true
+  alt:
+    color: '#d5dde4'
+    light: ''
+    dark: ''
+    contrast:
+      fill: true
+      in: true
+      text: true
+  cta:
+    color: '#fbda0c'
+    light: ''
+    dark: ''
+    contrast:
+      fill: false
+      in: true
+      text: true
+  base:
+    white: '#fff'
+    light: '#d5dde4'
+    gray: '#767676'
+    dark: '#333248'
+    black: '#000'
+rounded:
+  radius: 0.33
+  chamfer: true
+buttons:
+  sides_round: false
+  icon_circle: true
+  deep: false
+  outline: false
+  font:
+    type: title
+    bold: false
+    caps: true
+  swap:
+    type: base
+    bold: false
+    caps: false
+inputs:
+  fill: false
+  labels_out: false
+shadow:
+  left: 0.15
+  top: 0.15
+  blur: 0
+  color: black
+  alpha: 0.85

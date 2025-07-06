@@ -1,9 +1,0 @@
-id: electric-vehicle-chargers
-title: Chargers
-subtitle: of Electric Vehicles
-image: servicios/cargadores-vehiculos-electricos.jpg
-icon: car-bolt
-description: |
-  We offer you the best service of sale and installation of electric vehicle chargers in {{% param title %}} at the best price:
-
-  [btn icon-plus More information](/en/electric-vehicle-chargers/ "Sales and Installation of Electric Vehicle Chargers")

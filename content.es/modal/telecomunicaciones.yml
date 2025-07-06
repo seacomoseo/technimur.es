@@ -1,0 +1,16 @@
+name: Telecomunicaciones
+id: telecomunicaciones
+title: Telecomunicaciones
+image: servicios/telecomunicaciones.jpg
+icon: tower-broadcast
+md: |
+  Mantén tu conexión en perfecto estado con nuestros servicios de telecomunicaciones.
+
+  - Antenas Terrestres (TDT)
+  - Antenas Parabólicas
+  - Cableado de Red
+  - Puntos de Acceso
+  - Fibra Óptica
+  - En {{% param title %}}
+
+  Estamos aquí para garantizar que estés siempre conectado.

@@ -1,0 +1,431 @@
+destacamos:
+  title: Destacamos
+  subtitle: Confían en nosotros
+  boxes:
+  - image: colaboradores/domoelectra.svg
+    link: https://www.domoelectra.com/
+  - image: colaboradores/bigmat.svg
+    link: https://www.bigmat.es/es/s/almacenes-de-construccion/valencia/suminnistros-para-la-construccion-nieva-sl-54a0
+  - image: colaboradores/extintorestarvi.svg
+    link: https://extintorestarvi.es/
+  - image: colaboradores/xtistore.svg
+    link: https://xtistore.com/
+
+caracteriza:
+  subtitle: ¿Qué nos caracteriza?
+  boxes:
+  - icon: clock
+    title: Formalidad
+    subtitle: Puntualidad y compromiso sin igual
+    md: En TechniMur, la puntualidad es esencial. Cumplimos plazos con precisión para brindarte un servicio eléctrico confiable y sin retrasos.
+  - icon: shield
+    title: Seguridad
+    subtitle: La tranquilidad de estar en buenas manos
+    md: Tu seguridad es nuestra prioridad. Nuestras certificaciones garantizan estándares rigurosos, y ofrecemos soluciones de protección para un entorno protegido.
+  - icon: star
+    title: Calidad
+    subtitle: La excelencia es nuestra norma
+    md: Cada instalación y proyecto lleva consigo nuestra pasión por la excelencia. Mano de obra y materiales de calidad que reflejan productos duraderos y resultados excepcionales.
+
+servicios:
+  title: Servicios
+  subtitle: ¿Qué hacemos?
+  boxes:
+  - title: Instalaciones Eléctricas
+    subtitle: Residenciales y Comerciales
+    image: servicios/instalaciones-electricas.jpg
+    link: '#instalaciones-electricas'
+  - title: Cargadores
+    subtitle: de Vehículos Eléctricos
+    image: servicios/cargadores-vehiculos-electricos.jpg
+    link: '#cargadores-vehiculos-electricos'
+  - title: Boletín Eléctrico
+    subtitle: y Certificaciones
+    image: servicios/boletin-electrico-certificaciones.jpg
+    link: '#boletin-electrico-certificaciones'
+  - title: Instalación de Placas Solares
+    subtitle: Fotovoltaicas
+    image: servicios/instalacion-placas-solares.jpg
+    link: '#instalacion-placas-solares'
+  - title: Alarmas contra Incendios
+    image: servicios/alarma-incendios.jpg
+    link: '#alarmas-incendios'
+  - title: Reparaciones Eléctricas
+    image: servicios/reparaciones-electricas.jpg
+    link: '#reparaciones-electricas'
+  - title: Domótica
+    image: servicios/domotica.jpg
+    link: '#domotica'
+  - title: Telecomunicaciones
+    image: servicios/telecomunicaciones.jpg
+    link: '#telecomunicaciones'
+
+  modals:
+
+  - id: instalaciones-electricas
+    title: Instalaciones Eléctricas en {{% param title %}}
+    subtitle: Residenciales y Comerciales
+    image: servicios/instalaciones-electricas.jpg
+    icon: plug
+    md: |
+      En Technimur, te ofrecemos un servicio de instalaciones eléctricas en {{% param title %}} de calidad para satisfacer todos tus requerimientos eléctricos.
+
+      Nuestro equipo de profesionales cumple al pie de la letra con la normativa vigente del REBT y te asesora en la ubicación de mecanismos y puntos de luz.
+
+      Estamos comprometidos a hacer realidad tus ideas y necesidades.
+
+      ¡Ven y descubre un mundo de oportunidades con nosotros!
+
+  - id: cargadores-vehiculos-electricos
+    title: Cargadores
+    subtitle: de Vehículos Eléctricos
+    image: servicios/cargadores-vehiculos-electricos.jpg
+    icon: car-bolt
+    md: |
+      Te ofrecemos el mejor servicio de venta e instalación de cargadores de vehículos eléctricos en {{% param title %}} al mejor precio:
+
+      [[:plus: Más información]](/cargadores-vehiculos-electricos/ "Venta e Instalación de Cargadores para Vehículos Eléctricos")
+
+  - id: boletin-electrico-certificaciones
+    title: Boletín Eléctrico
+    subtitle: y Certificaciones
+    image: servicios/boletin-electrico-certificaciones.jpg
+    icon: file-check
+    md: |
+      Te ofrecemos el mejor servicio de boletín eléctrico en {{% param title %}} al mejor precio:
+
+      [[:plus: Más información]](/boletin-electrico/ "Boletín Eléctrico y Certificados de Instalación Eléctrica (CIE)")
+
+  - id: instalacion-placas-solares
+    title: Instalación de Placas Solares
+    subtitle: Fotovoltaicas
+    image: servicios/instalacion-placas-solares.jpg
+    icon: solar-panel
+    md: |
+      Ofrecemos un servicio excepcional en la instalación de placas solares fotovoltaicas en {{% param title %}}:
+
+      <!--
+      adaptándonos a todas tus necesidades energéticas sostenibles.
+
+      Nuestro equipo experto se adhiere estrictamente a las normativas vigentes y te brinda asesoramiento personalizado en la selección y ubicación óptima de tus paneles solares.
+
+      Comprometidos con la eficiencia y la innovación, trabajamos para convertir tus proyectos de energía renovable en una realidad tangible y eficaz.
+
+      ¡Explora con nosotros un futuro más verde y lleno de posibilidades energéticas!
+      -->
+
+      [[:plus: Más información]](/instaladores-placas-solares/ "Instaladores de Placas Solares Fotovoltaicas en San Pedro del Pinatar")
+
+  - id: alarmas-incendios
+    title: Alarmas contra Incendios
+    subtitle: Protege tu Hogar o Negocio con Nuestras Alarmas contra Incendios en San Pedro del Pinatar
+    image: servicios/alarmas-incendios.jpg
+    icon: light-emergency-on
+    md: |
+      Las alarmas contra incendios son un recurso fundamental para salvaguardar propiedades, tanto residenciales como comerciales, en {{% param title %}}.
+      En Electricistas Technimur, ofrecemos soluciones efectivas que aseguran la seguridad de tus seres queridos y tu patrimonio.
+
+      Nuestras avanzadas alarmas de incendio emplean tecnología de vanguardia y componentes interconectados para detectar cualquier indicio de fuego.
+      Esto proporciona una alerta temprana, permitiendo a las personas presentes tomar medidas inmediatas y prevenir daños graves.
+
+      Nuestro equipo altamente capacitado personaliza cada instalación para satisfacer las necesidades específicas de tu propiedad en San Pedro del Pinatar.
+      Tu seguridad es nuestra principal preocupación, y nos enorgullece brindarte una solución de protección contra incendios a la medida.
+      Descubre más sobre nuestras alarmas contra incendios en San Pedro del Pinatar y toma medidas para asegurar lo que más valoras.
+      En TechniMur, tu seguridad es nuestra prioridad.
+
+  - id: reparaciones-electricas
+    title: Reparaciones Eléctricas en {{% param title %}}
+    image: servicios/reparaciones-electricas.jpg
+    icon: plug-circle-check
+    md: |
+      ¡Solucionamos cualquier problema eléctrico de forma rápida y eficiente en {{% param title %}}!
+
+      Estamos comprometidos a ofrecerle el mejor servicio posible, ya sea que se trate de una emergencia como un corte de luz o una avería menor.
+
+      Si necesita ayuda, ¡nosotros estamos aquí para ayudarlo!
+
+  - id: domotica
+    title: Domótica
+    image: servicios/domotica.jpg
+    icon: house-signal
+    md: |
+      Transforma tu hogar o negocio en {{% param title %}} en un espacio inteligente con nuestros sistemas de domótica.
+
+      Controla la iluminación, la climatización y la seguridad desde tu dispositivo móvil, brindando comodidad y eficiencia energética.
+
+  - id: telecomunicaciones
+    title: Telecomunicaciones
+    image: servicios/telecomunicaciones.jpg
+    icon: tower-broadcast
+    md: |
+      Mantén tu conexión en perfecto estado con nuestros servicios de telecomunicaciones.
+
+      - Antenas Terrestres (TDT)
+      - Antenas Parabólicas
+      - Cableado de Red
+      - Puntos de Acceso
+      - Fibra Óptica
+      - En {{% param title %}}
+
+      Estamos aquí para garantizar que estés siempre conectado.
+
+  placas_solares:
+    title: Servicios
+    subtitle: Paneles Solares
+    md: |
+      En Technimur, nos enorgullecemos de ser reconocidos como los mejores instaladores de placas solares fotovoltaicas en {{% param location %}}.
+
+      Nuestro equipo de técnicos instaladores especializados en energía solar ofrece soluciones integrales y personalizadas para cada cliente.
+
+      Entendemos que cada instalación es única, por eso, nuestros instaladores de placas solares trabajan estrechamente contigo para garantizar que tu sistema fotovoltaico no solo cumpla con tus expectativas, sino que también maximice su eficiencia y rendimiento.
+
+      Desde el análisis inicial hasta la instalación final, nos comprometemos a brindar un servicio de la más alta calidad, asegurando que cada panel solar funcione a su máximo potencial.
+
+      Ya sea para tu hogar o para tu negocio, contamos con la capacidad para diseñar e implementar sistemas de paneles solares que no solo reducen tu huella de carbono, sino que también optimizan tu inversión.
+
+      Confía en nosotros para hacer de tu transición a la energía solar una experiencia fluida y satisfactoria.
+
+  cargadores:
+    title: Servicios
+    hanchor: Instalación de Cargadores para Coches Eléctricos
+    subtitle: Venta e Instalación
+    md: |
+      ¿Estás buscando la mejor solución para cargar tu vehículo eléctrico en casa? En Technimur, somos expertos en la instalación de cargadores para coches eléctricos, ofreciendo un servicio profesional y personalizado adaptado a tus necesidades.
+
+      ### ¿Por qué elegir nuestros servicios?
+
+      - **Experiencia Comprobada:** Contamos con años de experiencia en la instalación de sistemas de carga para vehículos eléctricos en viviendas unifamiliares y garajes comunitarios.
+      - **Compatibilidad Garantizada:** Trabajamos con las mejores marcas del mercado, como Circutor y V2C, asegurando compatibilidad y eficiencia en cada instalación.
+      - **Instalación de Tu Cargador:** Si ya tienes un cargador, podemos instalarlo asegurando que cumpla con todas las normativas de seguridad y eficiencia energética bajo la normativa IRVE (Infraestructura de Recarga de Vehículo Eléctrico).
+
+      ### Servicios Ofrecidos
+
+      - **Instalación de Cargadores Domésticos y Comunitarios:** Diseñamos e implementamos la infraestructura necesaria para la instalación de cargadores en tu hogar o en espacios comunitarios.
+      - **Asesoramiento Personalizado:** Te asesoramos sobre el tipo de cargador que mejor se adapta a tus necesidades y al tipo de tu vehículo.
+      - **Mantenimiento y Garantía:** Ofrecemos servicios de mantenimiento preventivo y correctivo, con garantías extendidas para tu tranquilidad.
+
+      ### Cargadores de Vehículos Eléctricos a Precios Competitivos
+
+      En Technimur, no solo te ofrecemos instalaciones expertas, sino también precios competitivos en todos nuestros cargadores. Explora nuestras opciones desde cargadores básicos hasta modelos avanzados de carga rápida y trifásica, siempre con la mejor relación calidad-precio del mercado.
+
+      ¿Listo para mejorar tu experiencia de carga en casa?
+
+      [[Contáctanos]](#contacto)
+
+  boletin:
+    title: Servicios
+    subtitle: Boletines y Certificados de Instalaciones Eléctricas
+    md: |
+      Necesitas un certificado o boletín eléctrico en Murcia? ¡No busques más! En TechniMur te ofrecemos el mejor servicio de boletín eléctrico en la ciudad al mejor precio. No esperes más, contáctanos para obtener tu certificado eléctrico.
+
+      Un boletín eléctrico, también conocido como boletín de luz o certificado de instalación eléctrica (CIE), es un documento esencial para garantizar que tu instalación eléctrica cumple con la normativa REBT vigente y los requisitos de las compañías suministradoras. Si necesitas un boletín eléctrico en Murcia, confía en nuestro equipo de instaladores autorizados para garantizar la seguridad de tu instalación eléctrica.
+
+      ### Instaladores Autorizados en la Región de Murcia
+
+      Nuestros instaladores autorizados en Murcia son profesionales altamente cualificados que cuentan con la certificación y experiencia necesarias para gestionar y tramitar boletines eléctricos en la región. Si necesitas un boletín eléctrico en Murcia, ellos son los expertos a los que debes recurrir.
+
+      ### ¿Cuándo es necesario un boletín eléctrico en Murcia?
+
+      Un boletín eléctrico es siempre necesario en obras nuevas y en instalaciones con más de 20 años de antigüedad cuando se solicita un alta nueva o una modificación de potencia mayor al 50% indicada por el automático general. Además, es obligatorio en locales comerciales que cambien su actividad o soliciten un alta nueva. No esperes más y asegúrate de contar con el boletín o certificado de instalación eléctrica que necesitas en Murcia.
+
+      ### ¿Cuánto tiempo se tarda en emitir un boletín eléctrico en Murcia?
+
+      En TechniMur, entendemos que a veces se necesita el boletín eléctrico con urgencia. Contacta con nosotros y haremos todo lo posible para acelerar el proceso. En general, la emisión del certificado suele tardar entre 1 día y 2 semanas, dependiendo de si se requiere una inspección. Si es necesario, trabajaremos para que obtengas tu boletín eléctrico lo antes posible.
+
+      ### Precios Asequibles para tu Boletín Eléctrico
+
+      Obtener un boletín eléctrico no tiene por qué ser costoso.
+
+      En Technimur, ofrecemos precios competitivos y transparentes para la emisión de tu boletín eléctrico y de luz. Ya sea que necesites un boletín eléctrico para una nueva instalación, una renovación o para garantizar la seguridad de tu sistema eléctrico, tenemos tarifas accesibles que se adaptan a tus necesidades.
+
+      No comprometas la calidad por el costo; nuestro equipo de electricistas certificados asegura un servicio excepcional a un precio justo. Consulta con nosotros hoy mismo para obtener una cotización ajustada a tus requerimientos específicos y descubre lo asequible que puede ser la seguridad y conformidad eléctrica.
+
+      En el caso concreto de los Boletines Eléctricos tenemos el precio más competitivo en Murcia: 150 € (IVA no incluido).
+
+nosotros:
+  title: Nosotros
+  subtitle: ¿Quienes Somos?
+  md: |
+    En Technimur, somos un equipo de electricistas autorizados y profesionales dedicados a ofrecer un servicio cercano y de alta calidad.
+
+    Nos especializamos en un rango reducido de localidades para garantizar una respuesta rápida y eficiente, superando a la competencia en tiempos de atención.
+
+    Ofrecemos nuestros servicios a particulares, comunidades de propietarios y empresas, adaptándonos a las necesidades específicas de cada cliente.
+
+    En menos de 2 años, hemos acumulado más de 100 reseñas positivas en Google, lo que respalda nuestro compromiso con la excelencia y la satisfacción del cliente.
+
+    Nuestro objetivo principal es ganarnos tu confianza y mantener una relación duradera, siempre con una actitud amigable y profesional.
+
+    En Technimur, tu tranquilidad y satisfacción son nuestra prioridad.
+
+equipo:
+  title: Equipo
+  subtitle: ¿Más sobre nosotros?
+
+portfolio:
+  title: Portfolio
+  subtitle: ¿Cómo son nuestros trabajos?
+
+resenas:
+  title: Reseñas
+  subtitle: ¿Qué dicen de nosotros?
+  more: Más reseñas
+  reviews:
+  - title: Juanan
+    md: |
+      Cuando uno busca un profesional, quiere que sea eficaz.
+
+      A mí me ha atendido José María , y se nota cuándo uno sabe de su trabajo, como ha sido el caso de José María.
+
+      Ha atendido y respondido cada una de las dudas que  le he planteado y ha ido más allá del encargo realizado.
+
+      Rapidez desde el contacto a través del formulario hasta la visita.
+
+      Eficacia y rapidez en la reparación.
+
+      Precio acorde al trabajo realizado, pero es de esas veces que además estás contento con todo en general.
+
+      Lo guardo como referencia, para quien me pregunte.
+    image: https://lh3.googleusercontent.com/a/ACg8ocLJwzoCWfoz4xZgVLUp2WWwdFw29nhFJNlNFFWw1kJivAMpPw=s136
+  - title: Roman L.
+    md: |
+      José y Juan Manuel hicieron un trabajo estupendo.
+
+      Instalaron un Tesla Wall Connector con el kit de balanceo, que quedó top 👌 Les elegí tras compararlos con otros electricistas por inspirar confianza y alto profesionalismo desde el primer momento, y superaron todas mis expectativas hasta el final.
+
+      Tanto la instalación misma como la comunicación de principio a fin (hasta el presupuesto es muy detallado) y la eficacia, siempre disponibles y reactivos, tomando iniciativas sensatas priorizando mi interés en cada momento.
+
+      Por ejemplo aconsejando exhaustivamente sobre el kit de balanceo adecuado, y currándose la discreción de los tubos en zonas comunes.
+
+      Demostraron una atención a los detalles extraordinaria en estos días, con humildad en momento de dudas e informándose activamente.
+
+      Cumplieron sus palabras sin el más mínimo fallo, la verdad que no podría estar más satisfecho.
+
+      Da gusto tratar con personas así, les deseo el brillante futuro que merecen y se están ganando con vivacidad 💪
+    image: https://lh3.googleusercontent.com/a/ACg8ocKVBmNppFoVl0OjPfrPa3qelxl2h2OKqvmUQYq5B7ValzZwZQ=s136
+  - title: Macu C.
+    md: |
+      Profesional, atento y a buen precio .
+
+      Quien da más?
+      Sabe lo que hace, resuelve rápido los contratiempos, es puntual y comprometido.
+
+      Para mi ha sido un gran descubrimiento y ya tengo electricista para todo lo que necesite, sin duda es un gran profesional! Lo te recomiendo 200%
+    image: https://lh3.googleusercontent.com/a/ACg8ocJer1HgR6grT2ers_qor0jBD9gVHHZ5VgkAd_DFG-5K-zjWJA=s136
+  - title: Kale G.
+    md: |
+      Excelente servicio.
+
+      Jose María fue muy rápido y eficiente.
+
+      ¡Trabajo de calidad!  Y el precio es inigualable.
+
+      Bueno, bonito y barato.
+    image: https://lh3.googleusercontent.com/a/ACg8ocK-RIvTSKOtUqplHQgs8x5_yxZe03yLVBs5HuhZLDPosPOdvA=s136
+  - title: Jaime M.
+    md: |
+      200% recomendable! Le llamé por un problema eléctrico y en el día hizo hueco para venir, ir a por las piezas y arreglar el problema, y tramitar los papeles.
+
+      Además muy amable profesional y eficaz.
+
+      Gracias
+    image: https://lh3.googleusercontent.com/a/ACg8ocIbw8pKU7c6B5JP8oDJw89z4GrpM5O_vPgUa37R5ihdsMuxFq0=s136
+  - title: Gonzalo R.
+    md: |
+      Excelente servicio.
+
+      Los he llamado y en muy poco tiempo han venido.
+
+      La reparación que tuvieron que realizar fue de un excelente nivel, super rápidos y el precio fue optimo.
+
+      Altamente recomendables!!!
+    image: https://lh3.googleusercontent.com/a-/ALV-UjUzAT1v5_CI5ujnQanzZjj9zCtp_DvoABvXCE71nHxgHSZcZRqUBQ=s136
+  - title: A V.
+    md: |
+      Me han realizado la instalación de cable por toda la casa y me han instalado y configurado sistema WiFi por toda la vivienda.
+
+      Muy satisfechos con el trato y el servicio prestados.
+
+      José Maria trabaja con una gran profesionalidad.
+
+      Resuelven de forma magistral las incidencias que puedan surgir.
+
+      Relación calidad precio totalmente equilibrada.
+
+      Muy contento.
+
+      Volveré a llamarlos con toda seguridad.
+    image: https://lh3.googleusercontent.com/a/ACg8ocKaAwD9LZBoMqhdq-VXt_xS_5EsICpGRPZUR8e9ipSYkvqyGA=s136
+  - title: Lorna C.
+    md: |
+      Excelente, súper profesional, se nota que saben lo que hacen, rápidos y eficaces! Lo super recomiendo!
+    image: https://lh3.googleusercontent.com/a-/ALV-UjWNr3WAPsYfXcBPrZr1pCx9ZO_SXCl4QUGcP-7SmOwtonrnM5WlIQ=s136
+  - title: Esdras D.
+    md: |
+      Muy profesionales, buen trato y precio justo.
+
+      Son muy comprometidos con el trabajo y el cliente.
+
+      Recomiendo 100%
+    image: https://lh3.googleusercontent.com/a-/ALV-UjWr3KrQI0CzUS79jKoRR8eV04eblpTxzJ-kx7Q6XcZVLe5M_X1vwQ=s136
+  - title: Joaquin F.
+    md: |
+      Técnico muy profesional, estamos muy satisfechos con su trabajo, personal para guardar en la agenda, con buena calidad precio.
+
+      Muy recomendable.
+    image: https://lh3.googleusercontent.com/a/ACg8ocLPu4l0LhIhwpvw9F3DJ0453vsN4GKLL4LjmaRs-__zg-QsVg=s136
+
+contacto:
+  title: Contacto
+  subtitle: ¿En qué podemos ayudarte?
+  days: Lunes - Viernes
+  name: Nombre
+  phone: Teléfono
+  message: Mensaje
+
+footer:
+  md: |
+    <br>
+
+    - :copyright:        {{< internal-link index >}}
+    - :scale-balanced:   {{< internal-link legal >}}
+    - :shield-keyhole:   {{< internal-link privacy >}}
+    - :cookie-bite:      {{< internal-link cookies >}}
+    - :universal-access: {{< internal-link accesibilidad >}}
+    {.list-inline}
+    <!--
+    - :seacomoseo:       {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
+    -->
+
+    <br>
+
+    Electricistas
+    {.h6}
+
+    - [San Pedro del Pinatar](/                                     "Electricistas en San Pedro del Pinatar")
+    - [Torrevieja](/electricistas/torrevieja/                       "Electricistas en Torrevieja")
+    - [Pilar de la Horadada](/electricistas/pilar-de-la-horadada/   "Electricistas en Pilar de la Horadada")
+    - [Los Alcázares](/electricistas/los-alcazares/                 "Electricistas en Los Alcázares")
+    - [San Javier](/electricistas/san-javier/                       "Electricistas en San Javier")
+    - [La Zenia](/electricistas/la-zenia/                           "Electricistas en La Zenia")
+    - [Lo Pagan](/electricistas/lo-pagan/                           "Electricistas en Lo Pagan")
+    - [Cabo Roig](/electricistas/cabo-roig/                         "Electricistas en Cabo Roig")
+    - [Campoamor](/electricistas/campoamor/                         "Electricistas en Campoamor")
+    - [Torre de la Horadada](/electricistas/torre-de-la-horadada/   "Electricistas en Torre de la Horadada")
+
+    - [Cargadores Vehículos Eléctricos](/cargadores-vehiculos-electricos/ "Venta e Instalación de Cargadores para Vehículos Eléctricos")
+    - [Boletín Eléctrico](/boletin-electrico/                             "Boletín Eléctrico y Certificados de Instalación Eléctrica (CIE)")
+    {.list-inline}
+
+    Instaladores de Placas Solares
+    {.h6}
+
+    - [San Pedro del Pinatar](/instaladores-placas-solares/                    "Mejores Instaladores de Placas Solares Fotovoltaicas en San Pedro del Pinatar")
+    - [Pinar de Campoverde](/instaladores-placas-solares-pinar-de-campo-verde/ "Mejores Instaladores de Placas Solares Fotovoltaicas en Pinar de Campoverde")
+    - [La Zenia](/instaladores-placas-solares-la-zenia/                        "Mejores Instaladores de Placas Solares Fotovoltaicas en La Zenia")
+    {.list-inline}
+
+    <br>
+
+    FINANCIADO POR LA UNIÓN EUROPEA CON EL PROGRAMA KIT DIGITAL, POR LOS FONDOS NEXT GENERATION EU DEL MECANISMO DE PLAN DE RECUPERACIÓN Y RESILENCIA
+    {.review__subtitle}

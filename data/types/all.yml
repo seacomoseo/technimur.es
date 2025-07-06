@@ -1,0 +1,121 @@
+title: Todas
+tpl:
+  bg:
+    color: white
+  menu:
+    logo: true
+    logo_align: left
+    sticky: auto
+    color: white
+    transparent: true
+    size: sm
+    es:
+      image: base/icon.svg
+      title: Technimur
+      subtitle: Electricistas
+      items:
+      - link: /
+        label: Inicio
+        icon: house
+        anchor: Electricistas en San Pedro del Pinatar
+      - link: '#destacamos'
+        label: Destacamos
+        icon: certificate
+      - link: '#servicios'
+        label: Servicios
+        icon: bolt
+      - link: '#nosotros'
+        label: Nosotros
+        icon: circle-info
+      - link: '#equipo'
+        label: Equipo
+        icon: user-group
+      - link: '#portfolio'
+        label: Portfolio
+        icon: rectangle-history
+      - link: '#resenas'
+        label: Reseñas
+        icon: comment
+      - link: '#contacto'
+        label: Contacto
+        icon: paper-plane
+        button: cta
+    en:
+      image: base/icon.svg
+      title: Technimur
+      subtitle: Electricians
+      items:
+      - link: /en/
+        label: Home
+        icon: house
+        anchor: Electricians in San Pedro del Pinatar
+      - link: '#features'
+        label: Features
+        icon: certificate
+      - link: '#services'
+        label: Services
+        icon: bolt
+      - link: '#about-us'
+        label: About Us
+        icon: circle-info
+      - link: '#team'
+        label: Team
+        icon: user-group
+      - link: '#portfolio'
+        label: Portfolio
+        icon: rectangle-history
+      - link: '#reviews'
+        label: Reviews
+        icon: comment
+      - link: '#contact'
+        label: Contact
+        icon: paper-plane
+        button: cta
+  callnow:
+    show: auto
+  section:
+  - size: sm
+  sections:
+  - file: base/_header
+  - file: base/toc
+  - file: base/content
+  - file: base/address
+  - file: base/author
+  - file: base/social
+  - file: base/comments
+  - file: base/children
+  - file: base/share
+  - file: base/related
+  modal:
+    color: white
+    ratio: 16/9
+    inset: true
+    caps: true
+    line: true
+    size: xs
+  list:
+    cols: 3
+    color: similar
+    shade: true
+    inset: true
+    ratio: 16/9
+    icon: hide
+    md: hide
+    button: hide
+    tags:
+    - type: date
+  related:
+    slider: true
+
+params:
+- name: location
+  label: Ubicación
+  hint: Nombre de la Ubicación
+- name: header
+  label: Cabecera
+  widget: object
+  params:
+  - var: BOX_BG_IMAGE
+  - var: BOX_HANCHOR
+  - var: BOX_SUBTITLE
+  - var: BOX_MD

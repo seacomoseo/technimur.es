@@ -1,0 +1,22 @@
+name: Resenas
+id: resenas
+icon: comment
+bi: servicios/reparaciones-electricas.jpg
+
+params:
+- page: resenas.title
+  box: title
+- page: resenas.subtitle
+  box: subtitle
+
+boxes:
+- review:
+    color: white
+    slider: true
+    cols: 3
+  params:
+  - page: resenas.reviews
+    box: reviews
+- boxes:
+  - md: |
+      [[:star: {{% param resenas.more %}}]](https://g.page/r/Ceu-g_MFBM04EAI/review "[nofollow]")

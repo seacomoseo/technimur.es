@@ -1,18 +1,18 @@
 // Header Animations
-#body-inicio #header {
+#body-home #header {
   @mixin show-from($delay) {
     animation: show-from .5s (2 + .25s * $delay) both;
   }
-  .section__title {       @include show-from(1); }
-  .subtitle {             @include show-from(2); }
-  .subtitle + p {         @include show-from(3); }
-  .description .buttons { @include show-from(4); }
-  .section__header {
-    margin-block: 1em;
-    font-size: fluid-size(1.25*16px,1.75*18px);
+  .box__title   { @include show-from(1); }
+  .subtitle     { @include show-from(2); }
+  .subtitle + p { @include show-from(3); }
+  .md .buttons  { @include show-from(4); }
+  .box__title {
+    @include fluid-size(margin-bottom, 1rem, 0, .5);
+    @include fluid-size(font-size, 1em, 2.5, 3.5);
   }
-  .description {
-    margin-top: fluid-size(0px,-18px);
+  .md {
+    @include fluid-size(margin-top, 1em, 0, -1);
   }
   .subtitle {
     // margin: 0;
@@ -21,7 +21,7 @@
 }
 #servicios,
 #services {
-  .columns .bg-figure-image {
+  .boxes .bg-figure-image {
     filter: sepia(1) hue-rotate(calc(#{ hue($dark) } - 50deg)) brightness(0.66);
   }
 }

@@ -1,0 +1,20 @@
+title: Únicas
+order: 0
+base: single
+tpl:
+  menu:
+    logo: false
+    sticky: auto
+    size: ''
+  callnow:
+    show: auto
+  section:
+  - size: lg
+    caps: true
+    color: dark
+    parallax: fix
+    div: arrow-three
+    alpha: 0.7
+  - color: white
+    div_x: true
+    div_y: true

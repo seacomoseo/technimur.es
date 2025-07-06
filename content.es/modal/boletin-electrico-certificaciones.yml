@@ -1,0 +1,10 @@
+name: Boletin Electrico Certificaciones
+id: boletin-electrico-certificaciones
+title: Boletín Eléctrico
+subtitle: y Certificaciones
+image: servicios/boletin-electrico-certificaciones.jpg
+icon: file-check
+md: |
+  Te ofrecemos el mejor servicio de boletín eléctrico en {{% param title %}} al mejor precio:
+
+  [[:plus: Más información]](/boletin-electrico/ "Boletín Eléctrico y Certificados de Instalación Eléctrica (CIE)")

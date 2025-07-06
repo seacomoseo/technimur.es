@@ -1,56 +1,11 @@
 baseURL: https://technimur.es
-# Paginate: 24
 buildFuture: false
 theme: [sansoul]
 params:
-  git_url: https://github.com/technimur/technimur.es
-  netlify_name: technimur
+  domain: technimur.es
+  name: technimur
   netlify_id: 451f9a9a-5363-44e1-b6c5-7bc5872f2601
-  hook: NjUyMmVkNDY0NzA4NmQ1ZWUwNDEzYmRi
+  netlify_hook: NjUyMmVkNDY0NzA4NmQ1ZWUwNDEzYmRi
+  cloudflare_id: 
   drive_link: https://drive.google.com/file/d/1fol99WCHQBUEvay4HS5pH0vSkHqhMjVY
   drive_mails: technimur@gmail.com
-defaultContentLanguage: es
-disableLanguages: [fr]
-languages:
-  es:
-    # paginatePath: pagina
-    permalinks:
-      page:
-        pages: :slug
-        blog: :slug
-        events: evento/:year/:month/:day/:slug
-        products: producto/:slug
-        categories: categoria/:slug
-        tags: etiqueta/:slug
-        authors: autor/:slug
-        custom: :slug
-      section:
-        pages: paginas
-        blog: blog
-        events: eventos
-        products: productos
-        categories: categorias
-        tags: etiquetas
-        authors: autores
-        custom: ubicaciones
-  en:
-    # paginatePath: page
-    permalinks:
-      page:
-        pages: :slug
-        blog: :slug
-        events: event/:year/:month/:day/:slug
-        products: product/:slug
-        categories: category/:slug
-        tags: tag/:slug
-        authors: author/:slug
-        custom: :slug
-      section:
-        pages: pages
-        blog: blog
-        events: events
-        products: products
-        categories: categories
-        tags: tags
-        authors: authors
-        custom: locations
