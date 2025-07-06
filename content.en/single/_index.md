@@ -1,6 +1,6 @@
 ---
 slug: home
-title: Inicio
+title: Home
 seo: ᐅ Electricians Technimur ⚡️ San Pedro del Pinatar
 description: llll➤ Find licensed and professional electricians in San Pedro del Pinatar. Near you for breakdowns, installations and more ✅ Contact now!
 image: base/icon.svg
