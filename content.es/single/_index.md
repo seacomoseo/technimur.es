@@ -109,12 +109,12 @@ org:
       close: 20:30
   prices: €€
   services:
-  - name: Instalaciones Eléctricas
-  - name: Cargadoresde Vehículos Eléctricos
-  - name: Boletín Eléctrico
-  - name: Instalación de Placas Solares
-  - name: Alarmas contra Incendios
-  - name: Reparaciones Eléctricas
-  - name: Domótica
-  - name: Telecomunicaciones
+  - title: Instalaciones Eléctricas
+  - title: Cargadoresde Vehículos Eléctricos
+  - title: Boletín Eléctrico
+  - title: Instalación de Placas Solares
+  - title: Alarmas contra Incendios
+  - title: Reparaciones Eléctricas
+  - title: Domótica
+  - title: Telecomunicaciones
 ---

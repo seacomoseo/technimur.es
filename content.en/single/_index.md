@@ -109,12 +109,12 @@ org:
       close: 20:30
   prices: €€
   services:
-  - name: Electrical Installations
-  - name: Electric Vehicle Chargers
-  - name: Electrical Bulletin
-  - name: Installation of Solar Panels
-  - name: Fire Alarms
-  - name: Electrical Repairs
-  - name: Domotics
-  - name: Telecommunications
+  - title: Electrical Installations
+  - title: Electric Vehicle Chargers
+  - title: Electrical Bulletin
+  - title: Installation of Solar Panels
+  - title: Fire Alarms
+  - title: Electrical Repairs
+  - title: Domotics
+  - title: Telecommunications
 ---
