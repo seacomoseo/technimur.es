@@ -1,0 +1,39 @@
+name: Contacto
+id: contacto
+size: sm
+menu_btn: cta
+boxes:
+- icon: send
+  when:
+  - days: '{{ get contacto.days }}'
+    hours: 8:00 - 20:30
+  links:
+  - type: phone
+    label: 641 47 94 90
+  - type: whatsapp
+    label: 641 47 94 90
+  - type: mail
+    label: j.tornero@technimur.es
+    full: true
+  form:
+    fill_inputs: false
+  inputs:
+  - type: text
+    name: Nombre
+    label: '{{ get contacto.name }}'
+    req: true
+  - type: phone
+    name: Teléfono
+    label: '{{ get contacto.phone }}'
+  - type: mail
+    name: Email
+    req: true
+  - type: area
+    name: Mensaje
+    label: '{{ get contacto.message }}'
+    req: true
+  get:
+  - from: contacto.title
+    to: title
+  - from: contacto.sub
+    to: sub

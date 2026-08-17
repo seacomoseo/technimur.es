@@ -1,0 +1,30 @@
+@use 'sass:color';
+@use 'css/mixins' as mixins;
+@use 'css/variables' as variables;
+
+// Heros Animations
+body:not(.type-page, .type-system) #hero {
+  @mixin show-from($delay) {
+    animation: show-from .5s (2 + .25s * $delay) both;
+  }
+  .box__title   { @include show-from(1); }
+  .sub     { @include show-from(2); }
+  .sub + p { @include show-from(3); }
+  .md .btns  { @include show-from(4); }
+  .box__title {
+    @include mixins.fluid-size(margin-bottom, 1rem, 0, .5);
+    @include mixins.fluid-size(font-size, 1em, 2.5, 3.5);
+  }
+  .md {
+    @include mixins.fluid-size(margin-top, 1em, 0, -1);
+  }
+  .sub {
+    display: inline-flex;
+    gap: .5em
+  }
+}
+#servicios {
+  .boxes .bg-fig-image {
+    filter: sepia(1) hue-rotate(calc(#{ color.channel(variables.$dark, 'hue', $space: hsl) } - 50deg)) brightness(0.66);
+  }
+}

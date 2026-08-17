@@ -1,0 +1,24 @@
+name: Servicios
+id: servicios
+bi: /u/servicios/fondo.jpg
+get:
+- from: servicios.modals
+  to: modals
+boxes:
+- icon: bolt
+  get:
+  - from: servicios.title
+    to: title
+  - from: servicios.sub
+    to: sub
+  - from: servicios.boxes
+    to: boxes
+  box:
+    cols: 4
+    card: true
+    pin: add
+    label: '{{ i18n more }}'
+modal:
+  color: white
+  inset: true
+  ratio: 16/9

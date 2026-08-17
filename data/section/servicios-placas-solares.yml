@@ -1,0 +1,15 @@
+name: Servicios ➡️ Placas Solares
+id: servicios
+bi: /u/servicios/instalacion-placas-solares.jpg
+boxes:
+- icon: solar_power
+  md_align: left
+  get:
+  - from: servicios.placas_solares.hanchor
+    to: hanchor
+  - from: servicios.placas_solares.title
+    to: title
+  - from: servicios.placas_solares.sub
+    to: sub
+  - from: servicios.placas_solares.md
+    to: md

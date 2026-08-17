@@ -1,20 +1,20 @@
-title: Únicas
-order: 0
+title: Páginas Únicas
+weight: 0
 base: single
 tpl:
   menu:
     logo: false
     sticky: auto
-    size: ''
-  callnow:
-    show: auto
+    size: lg
+  callnow: auto
   section:
   - size: lg
-    caps: true
     color: dark
-    parallax: fix
+    scroll: fix
     div: arrow-three
     alpha: 0.7
+    box:
+      caps: true
   - color: white
     div_x: true
     div_y: true

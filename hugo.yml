@@ -2,10 +2,11 @@ baseURL: https://technimur.es
 buildFuture: false
 theme: [sansoul]
 params:
+  owner: seacomoseo
   domain: technimur.es
   name: technimur
   netlify_id: 451f9a9a-5363-44e1-b6c5-7bc5872f2601
   netlify_hook: NjUyMmVkNDY0NzA4NmQ1ZWUwNDEzYmRi
   cloudflare_id: 
-  drive_link: https://drive.google.com/file/d/1fol99WCHQBUEvay4HS5pH0vSkHqhMjVY
+  drive_url: https://drive.google.com/file/d/1fol99WCHQBUEvay4HS5pH0vSkHqhMjVY
   drive_mails: technimur@gmail.com

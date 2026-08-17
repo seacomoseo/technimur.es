@@ -1,0 +1,35 @@
+name: Footer
+color: dark
+space: 1
+align: center
+div: arrow-three
+
+boxes:
+- dots:
+  - url: https://g.page/r/Ceu-g_MFBM04EAI
+  - url: https://g.page/r/CcPQveZNbvAnEBE
+  - url: https://g.page/r/CY5DclnvGgplEBM
+  - url: https://www.instagram.com/technimur_electricistas/
+- get:
+  - from: footer.md
+    to: md
+  md: |
+    - ::copyright::        {{< internal-link index >}}
+    - ::balance::          {{< internal-link legal >}}
+    - ::encrypted::        {{< internal-link privacy >}}
+    - ::cookie::           {{< internal-link cookies >}}
+    - ::brand:seacomoseo:: {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/ "[homefollow]")
+    {.list-inline}
+- box:
+    cols: 5
+    cols_vs: 2
+    align_y: center
+    ratio: 3.5
+  gallery:
+    type: boxes
+  imgs:
+  - /u/kit-digital/gobierno.svg
+  - /u/kit-digital/prtr.svg
+  - /u/kit-digital/red-es.svg
+  - /u/kit-digital/ue.svg
+  - /u/kit-digital/kd.svg

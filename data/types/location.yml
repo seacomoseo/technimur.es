@@ -1,50 +1,31 @@
 title: Ubicaciones
 base: service
-order: 1
-icon: location-dot
+weight: 1
+icon: place
 emoji: 📍
-
 tpl:
   menu:
     logo: false
     sticky: auto
-    size: ''
-  callnow:
-    show: auto
+    size: lg
+  callnow: auto
   section:
   - size: lg
-    caps: true
     color: dark
-    parallax: fix
+    scroll: fix
     div: arrow-three
     alpha: 0.7
+    box:
+      caps: true
   - color: white
     div_x: true
     div_y: true
   sections:
-  - file: _header
+  - file: _hero
   - file: destacamos
   - file: servicios
-    modals:
-    - file: instalaciones-electricas
-    - file: cargadores-vehiculos-electricos
-    - file: boletin-electrico-certificaciones
-    - file: instalacion-placas-solares
-    - file: alarmas-incendios
-    - file: reparaciones-electricas
-    - file: domotica
-    - file: telecomunicaciones
   - file: nosotros
   - file: equipo
   - file: portfolio
   - file: resenas
   - file: contacto
-
-es:
-  permalinks: electricistas
-  slug: electricistas
-  singular: Ubicación
-en:
-  permalinks: electricians
-  slug: electricians
-  singular: Location

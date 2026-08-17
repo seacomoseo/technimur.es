@@ -1,0 +1,70 @@
+
+- { from: /alarma-de-incendio-en-murcia/ , to: /#alarmas-incendios }
+- { from: /alarma-de-incendio/ , to: /#alarmas-incendios }
+- { from: /domotica/ , to: /#domotica }
+- { from: /boletin-electrico-murcia/ , to: /boletin-electrico/ }
+- { from: /energia-solar-termica/ , to: /instaladores-placas-solares/ }
+- { from: /sintonizacion-satelite/ , to: /#telecomunicaciones }
+
+- { from: /electricistas-murcia/ , to: / }
+- { from: /electricista-en-san-pedro-del-pinatar/ , to: / }
+- { from: /electricista-en-los-alcazares/ , to: /electricistas/los-alcazares/ }
+- { from: /electricista-en-pilar-de-la-horadada/ , to: /electricistas/pilar-de-la-horadada/ }
+- { from: /electricista-en-san-javier/ , to: /electricistas/san-javier/ }
+- { from: /electricista-en-torrevieja , to: /electricistas/torrevieja/ }
+
+- { from: /electricista-en-cabo-roig , to: /electricistas/cabo-roig/ }
+- { from: /electricista-en-cabo-roig/ , to: /electricistas/cabo-roig/ }
+- { from: /electricista-en-campoamor , to: /electricistas/campoamor/ }
+- { from: /electricista-en-campoamor/ , to: /electricistas/campoamor/ }
+- { from: /electricista-en-la-zenia , to: /electricistas/la-zenia/ }
+- { from: /electricista-en-la-zenia/ , to: /electricistas/la-zenia/ }
+- { from: /electricista-en-lo-pagan , to: /electricistas/lo-pagan/ }
+- { from: /electricista-en-torre-de-la-horadada/ , to: /electricistas/torre-de-la-horadada/ }
+
+- { from: /aviso-legal/ , to: /legal/ }
+- { from: /politica-de-cookies/ , to: /cookies/ }
+- { from: /politica-privacidad/ , to: /privacidad/ }
+
+- { from: /author/josela/feed/ , to: / }
+- { from: /locations.kml , to: / }
+- { from: /wp-content/uploads/2021/05/cropped-cropped-technimurlogo_blanco-300x300.webp , to: / }
+
+
+# 2024-09-27
+
+- { from: /electricistas-san-pedro-del-pinatar/ , to: / }
+- { from: /electricistas-cartagena/ , to: / }
+- { from: /electricistas-valencia/ , to: / }
+- { from: /electricistas-sueca/ , to: / }
+- { from: /electricistas-torrente/ , to: / }
+- { from: /electricistas-paterna/ , to: / }
+- { from: /electricistas-manises/ , to: / }
+- { from: /electricistas-burjasot/ , to: / }
+- { from: /electricistas-alboraya/ , to: / }
+- { from: /electricistas-masanassa/ , to: / }
+- { from: /electricistas-paiporta/ , to: / }
+- { from: /electricistas-catarroja/ , to: / }
+- { from: /electricistas-albal/ , to: / }
+- { from: /electricistas-silla/ , to: / }
+
+- { from: /en/electricians-san-pedro-del-pinatar/ , to: / }
+- { from: /en/electricians-cartagena/ , to: / }
+- { from: /en/electricians-valencia/ , to: / }
+- { from: /en/electricians-sueca/ , to: / }
+- { from: /en/electricians-torrente/ , to: / }
+- { from: /en/electricians-paterna/ , to: / }
+- { from: /en/electricians-manises/ , to: / }
+- { from: /en/electricians-burjasot/ , to: / }
+- { from: /en/electricians-alboraya/ , to: / }
+- { from: /en/electricians-masanassa/ , to: / }
+- { from: /en/electricians-paiporta/ , to: / }
+- { from: /en/electricians-catarroja/ , to: / }
+- { from: /en/electricians-albal/ , to: / }
+- { from: /en/electricians-silla/ , to: / }
+
+
+# 2025-06-06
+
+- { from: /electricistas-* , to: /electricistas/:splat }
+- { from: /en/electricians-* , to: /en/electricians/:splat }

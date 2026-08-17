@@ -1,0 +1,23 @@
+name: Portfolio
+id: portfolio
+boxes:
+- icon: cards_star
+  gallery:
+    gray: false
+    btn: hide
+    cols: 3
+    type: rows
+    contain: true
+  imgs:
+  - /u/portfolio/placas-solares/2024-12-18-13-14-58.jpg
+  - /u/portfolio/placas-solares/2024-12-18-13-15-25.jpg
+  - /u/portfolio/placas-solares/2024-12-18-13-15-48.jpg
+  - /u/portfolio/placas-solares/2024-12-15-13-55-49.jpg
+  - /u/portfolio/placas-solares/2023-12-18-23-09-58.jpg
+  - /u/portfolio/placas-solares/2023-12-07-20-24-53.jpg
+  - /u/portfolio/placas-solares/2023-12-18-23-10-02.jpg
+  get:
+  - from: portfolio.title
+    to: title
+  - from: portfolio.sub
+    to: sub

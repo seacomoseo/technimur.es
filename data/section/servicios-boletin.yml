@@ -1,0 +1,15 @@
+name: Servicios ➡️ Boiletín
+id: servicios
+bi: /u/servicios/fondo.jpg
+boxes:
+- icon: bolt
+  md_align: left
+  get:
+  - from: servicios.boletin.hanchor
+    to: hanchor
+  - from: servicios.boletin.title
+    to: title
+  - from: servicios.boletin.sub
+    to: sub
+  - from: servicios.boletin.md
+    to: md

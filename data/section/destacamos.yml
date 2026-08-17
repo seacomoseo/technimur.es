@@ -1,0 +1,36 @@
+name: Destacamos
+id: destacamos
+boxes:
+- icon: verified
+  get:
+  - from: destacamos.title
+    to: title
+- get:
+  - from: destacamos.sub
+    to: sub
+  box:
+    cols: 4
+    cols_vs: 2
+    gap: 2
+    ratio: 4
+    hide_shadow: true
+    btn: hide
+    lock: true
+  boxes:
+  - img: /u/colaboradores/domoelectra.svg
+    url: https://www.domoelectra.com/
+  - img: /u/colaboradores/bigmat.svg
+    url: https://www.bigmat.es/es/s/almacenes-de-construccion/valencia/suminnistros-para-la-construccion-nieva-sl-54a0
+  - img: /u/colaboradores/extintorestarvi.svg
+    url: https://extintorestarvi.es/
+  - img: /u/colaboradores/xtistore.svg
+    url: https://xtistore.com/
+- md: <br>
+- box:
+    cols: 3
+    line: true
+  get:
+  - from: caracteriza.sub
+    to: sub
+  - from: caracteriza.boxes
+    to: boxes

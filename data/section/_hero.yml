@@ -1,0 +1,29 @@
+name: Hero
+color: alt-dark
+bi: /u/fondo.webm
+alpha: 0
+pt: 3
+full: true
+get:
+- from: header.bi
+  to: bi
+boxes:
+- get:
+  - from: header.hanchor
+    to: hanchor
+  box:
+    node: div
+- img: /u/base/logo.svg
+  fit: 0.25
+  fit_vs: 0.8
+- title: Technimur
+  caps: true
+  md: |
+    ::bolt::
+    {{% get header.sub %}}
+    ::bolt::
+    {.sub}
+
+    {{% get header.md %}}
+
+    [[::add:: {{% i18n more %}}]](#more)

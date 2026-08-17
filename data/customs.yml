@@ -1,0 +1,131 @@
+- name: destacamos
+  label: Destacamos
+  widget: dict
+  sub:
+  - var: title
+  - var: sub
+- name: caracteriza
+  label: Nos Caracteriza
+  widget: dict
+  sub:
+  - var: sub
+  - name: boxes
+    label: Puntos
+    widget: slice
+    sub:
+    - var: icon
+    - var: title
+    - var: sub
+    - var: md
+- name: servicios
+  label: Servicios
+  widget: dict
+  sub:
+  - var: title
+  - var: sub
+  - name: boxes
+    label: Puntos
+    widget: slice
+    sub:
+    - var: title
+    - var: sub
+    - var: image
+    - var: url
+  - name: modals
+    label: Popups
+    widget: slice
+    sub:
+    - var: id
+    - var: hanchor
+    - var: title
+    - var: sub
+    - var: icon
+    - var: md
+  - name: placas_solares
+    label: Placas Solares
+    widget: dict
+    sub:
+    - var: hanchor
+    - var: title
+    - var: sub
+    - var: md
+  - name: cargadores
+    label: Cargadores de Coches Eléctricos
+    widget: dict
+    sub:
+    - var: hanchor
+    - var: title
+    - var: sub
+    - var: md
+  - name: boletin
+    label: Boletín
+    widget: dict
+    sub:
+    - var: hanchor
+    - var: title
+    - var: sub
+    - var: md
+- name: nosotros
+  label: Nosotros
+  widget: dict
+  sub:
+  - var: title
+  - var: sub
+  - var: md
+- name: equipo
+  label: Equipo
+  widget: dict
+  sub:
+  - var: title
+  - var: sub
+- name: portfolio
+  label: Portfolio
+  widget: dict
+  sub:
+  - var: title
+  - var: sub
+- name: resenas
+  label: Reseñas
+  widget: dict
+  sub:
+  - var: title
+  - var: sub
+  - name: more
+    label: Botón "Más Reseñas"
+  - var: reviews
+- name: contacto
+  label: Contacto
+  widget: dict
+  sub:
+  - var: title
+  - var: sub
+  - name: days
+    label: Días
+  - name: name
+    label: Nombre
+  - name: phone
+    label: Teléfono
+  - name: message
+    label: Mensaje
+- name: footer
+  label: Footer
+  widget: dict
+  sub:
+  - var: md
+- types:
+  - location
+  - single
+  name: location
+  label: Ubicación
+  hint: Nombre de la Ubicación
+- types:
+  - location
+  - single
+  name: header
+  label: Cabecera
+  widget: dict
+  sub:
+  - var: bi
+  - var: hanchor
+  - var: sub
+  - var: md

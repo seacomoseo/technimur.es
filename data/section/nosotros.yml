@@ -1,0 +1,21 @@
+name: Nosotros
+id: nosotros
+boxes:
+- icon: info
+  box:
+    cols: 2
+    duo: 2
+    align: left
+    align_y: center
+    caps: true
+    line: true
+  get:
+  - from: nosotros.title
+    to: title
+  - from: nosotros.sub
+    to: sub
+  boxes:
+  - img: /u/base/icon.svg
+  - get:
+    - from: nosotros.md
+      to: md

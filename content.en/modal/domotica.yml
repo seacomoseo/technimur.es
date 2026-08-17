@@ -1,9 +1,0 @@
-name: Domotica
-id: home-automation
-title: Home Automation
-image: servicios/domotica.jpg
-icon: house-signal
-md: |
-  Transform your home or business in {{% param location %}} into an intelligent space with our home automation systems.
-
-  Control lighting, climate control and security from your mobile device, providing comfort and energy efficiency.
