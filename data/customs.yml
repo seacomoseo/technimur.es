@@ -29,7 +29,7 @@
     sub:
     - var: title
     - var: sub
-    - var: image
+    - var: img
     - var: url
   - name: modals
     label: Popups
